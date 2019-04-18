@@ -4,7 +4,7 @@ from adafruit_servokit import ServoKit
 from jetmotor.adafruit_servokit_motor import AdafruitServoKitMotor
 
 
-class DefaultRacecar(Racecar):
+class NvidiaRacecar(Racecar):
     def __init__(self, *args, **kwargs):
         kit = ServoKit()
         self.steering_motor = AdafruitServoKitMotor(kit=kit, channel=0)
