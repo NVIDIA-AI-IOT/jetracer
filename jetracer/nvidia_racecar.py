@@ -5,7 +5,7 @@ from jetmotor.adafruit_servokit_motor import AdafruitServoKitMotor
 from jetcam.imx219 import IMX219
 
 
-class DefaultRacecar(Racecar):
+class NvidiaRacecar(Racecar):
     def __init__(self, *args, **kwargs):
         kit = ServoKit(channels=16)
         self.steering_motor = AdafruitServoKitMotor(kit=kit, channel=0)
