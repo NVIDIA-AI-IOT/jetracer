@@ -2,6 +2,12 @@
 
 JetRacer is an educational AI racecar using NVIDIA Jetson Nano.
 
+## Cars
+
+### NVIDIA
+### SparkFun
+### DIY Robocars
+
 ## Setup
 
 1. Follow the [JetKit](#) installation guide
@@ -13,16 +19,6 @@ JetRacer is an educational AI racecar using NVIDIA Jetson Nano.
     cd jetracer
     sudo python3 setup.py install
     ```
-
-## Cars
-
-### NVIDIA
-
-This is a DIY racer that costs ~$250.  To build this car,
-
-1. Buy components from the [bill of materials](#)
-
-2. Follow the [hardware setup](#)
 
 ## Examples
 
