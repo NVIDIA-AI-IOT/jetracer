@@ -1,6 +1,6 @@
 # JetRacer
 
-JetRacer is an easy to use AI racecar using NVIDIA Jetson Nano.
+JetRacer is an educational AI racecar using NVIDIA Jetson Nano.
 
 ## Setup
 
