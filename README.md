@@ -14,7 +14,9 @@ To get started,
 2. Follow the [software setup](#setup)
 3. Run through the [examples](#examples)
 
-Building and using JetRacer gives the hands on experience needed to create your own AI projects...  Happy making :)
+Building and using JetRacer gives the hands on experience needed to create your own AI projects...
+
+Happy making :)
 
 ## Cars
 
