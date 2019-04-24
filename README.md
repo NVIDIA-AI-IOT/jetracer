@@ -16,8 +16,6 @@ To get started,
 
 Building and using JetRacer gives the hands on experience needed to create your own AI projects.
 
-Happy making :)
-
 ## Cars
 
 ### NVIDIA
