@@ -1,13 +1,11 @@
 # JetRacer
 
-JetRacer is an educational AI racecar using NVIDIA Jetson Nano.  It's
+JetRacer is an educational AI racecar using NVIDIA Jetson Nano that is
 
 * Affordable - ~$250 including Jetson Nano
 
 * Educational - Examples from basic motion to AI road following
 * Fun! - Interactively programmed from your web browser
-
-Building and using JetRacer gives the hands on experience needed to create your own AI projects.
 
 To get started,
 
@@ -15,6 +13,10 @@ To get started,
 
 2. Follow the [software setup](#setup)
 3. Run through the [examples](#examples)
+
+Building and using JetRacer gives the hands on experience needed to create your own AI projects.
+
+Happy making :)
 
 ## Cars
 
