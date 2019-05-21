@@ -9,7 +9,7 @@ class NvidiaRacecar(Racecar):
     steering_channel = traitlets.Integer(default_value=0)
     throttle_channel = traitlets.Integer(default_value=1)
     
-    def __init__(self, i2c_addres=0x40, steering_channel=0, throttle_channel=1):
+    def __init__(self, *args, **kwargs):
         super(NvidiaRacecar, self).__init__(*args, **kwargs)
         self.kit = ServoKit(channels=16, address=self.i2c_address)
         self.steering_motor = self.kit.continuous_servo[self.steering_channel]
