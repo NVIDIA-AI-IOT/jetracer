@@ -1,4 +1,3 @@
-from jetmotor import Motor
 import traitlets
 
 
