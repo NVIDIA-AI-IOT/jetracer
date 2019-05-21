@@ -19,8 +19,8 @@ class NvidiaRacecar(Racecar):
     
     @traitlets.observe('steering')
     def _on_steering(self, change):
-        self.steering_motor.throttle = change['new'] * steering_gain.value
+        self.steering_motor.throttle = change['new'] * self.steering_gain.value
     
     @traitlets.observe('throttle')
     def _on_throttle(self, change):
-        self.throttle_motor.throttle = change['new'] * throttle_gain.value
+        self.throttle_motor.throttle = change['new'] * self.throttle_gain.value
