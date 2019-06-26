@@ -1,4 +1,4 @@
-from .racecar import Racecar
+from jetracer.racecar import Racecar
 import traitlets
 from adafruit_servokit import ServoKit
 
