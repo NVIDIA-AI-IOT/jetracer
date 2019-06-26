@@ -1,3 +1,7 @@
+## Bill of Materials
+
+You need to order these parts to build the NVIDIA JetRacer.
+
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
 | Jetson Nano | 1 | $99.00 | [NVIDIA](https://developer.nvidia.com/embedded/buy/jetson-nano-devkit) |  |
@@ -10,3 +14,5 @@
 | USB A -> 2.1mm Barrel Cable | 1 | $7.00 | [Amazon](https://www.amazon.com/gp/product/B075112RM6/) |  |
 | M2x6mm Screw Pack | 1 | $13.53 | [Amazon](https://www.amazon.com/gp/product/B01FXGHO2M/) | 12 screws needed per car |
 | M3x20mm Standoff Pack | 1 | $6.99 | [Amazon](https://www.amazon.com/dp/B072DVGWHZ/ref=cm_sw_su_dp) | 4 standoffs needed per car |
+
+## Hardware Setup
