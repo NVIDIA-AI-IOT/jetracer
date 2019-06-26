@@ -11,7 +11,7 @@ To get started, pick a [car](#cars) and follow the instructions.
 
 ## Cars
 
-### NVIDIA
+### NVIDIA JetRacer
 
 <img src="https://lh3.googleusercontent.com/NKCZUpv25TTaZ4PFVbxIUZkzVP7l90xhGrmiXJo4R6edUQnWp5coYkM7J1T9pZOnHM6KyhmdxXwpsn7or_8r--yNva_fPAdjZnqdNU3_NUSK7iGxqFzQ0Ucjb0F4WucMUg4MRYOJ5so" height=256>
 
