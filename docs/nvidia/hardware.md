@@ -22,7 +22,7 @@ You need to order these parts to build JetRacer.
 |------|:----------:|:------:|-----|-------|
 | RC Car | 1 | $109.95 | [HobbyTown](https://www.hobbytown.com/traxxas-latrax-rally-1-18-4wd-rtr-rally-racer-green-tra75054-5-grn/p630138), [Amazon](http://amzn.com/B06W57XLRW) | Traxxas LaTrax Rally 1/18 4WD w/ 2.4GHz radio |
 
-### Control hardware
+### RC Control
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
@@ -33,8 +33,8 @@ You need to order these parts to build JetRacer.
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
-| M2x6mm Screw Pack | 1 | $13.53 | [Amazon](https://www.amazon.com/gp/product/B01FXGHO2M/) | 12 screws needed per car |
-| M3x20mm Standoff Pack | 1 | $6.99 | [Amazon](https://www.amazon.com/dp/B072DVGWHZ/ref=cm_sw_su_dp) | 4 standoffs needed per car |
+| M2x6mm Screw Pack | 1 | $13.53 | [Amazon](https://www.amazon.com/gp/product/B01FXGHO2M/) | Mounts accessories to 3D printed base plate.  12 screws needed per car |
+| M3x20mm Standoff Pack | 1 | $6.99 | [Amazon](https://www.amazon.com/dp/B072DVGWHZ/ref=cm_sw_su_dp) | Mounts 3D printed base plate to RC chassis. 4 standoffs needed per car |
 
 ### WiFi
 
@@ -45,7 +45,17 @@ You need to order these parts to build JetRacer.
 
 ### Camera
 
-#### Option 1 - Leopard Imaging Camera
+You need a wide angle camera for JetRacer.  Pick an option and order the parts listed.
 
-#### Option 2 - 
-## Hardware Setup
+#### Option 1 - Wide angle Leopard Imaging camera
+
+| Part | Quantity | Cost | URL | Notes |
+|------|:----------:|:------:|-----|-------|
+| Camera | 1 | $29 | [Leopard Imaging](https://leopardimaging.com/product/li-imx219-mipi-ff-nano/) | Select wide angle (**H145**) option |
+
+#### Option 2 - Raspberry Pi Camera V2 + Wide angle attachment
+
+| Part | Quantity | Cost | URL | Notes |
+|------|:----------:|:------:|-----|-------|
+| Camera | 1 | $23.90 | [Amazon](https://amzn.to/2MSi6lL), [Adafruit](http://adafru.it/3099) | Raspberry Pi Camera V2 |
+| Wide angle attachment | 1 | $18.99 | [Amazon(1)](https://amzn.com/B07HMXJ9Y1), [Amazon(2)](https://amzn.com/B07HF81BVL/), [eBay](https://ebay.us/Fz7HGd) | 160-degree FoV |
