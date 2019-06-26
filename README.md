@@ -21,23 +21,6 @@ To get started with JetRacer, follow these steps
 3. Follow the [software setup](docs/nvidia_racecar/software_setup.md)
 4. Run through the [examples](#examples)
 
-## Usage
-
-### Create racecar
-
-```python
-from jetracer.nvidia_racecar import NvidiaRacecar
-
-car = NvidiaRacecar()
-```
-
-### Control
-
-```python
-car.steering = 0.3
-car.throttle = 0.6
-```
-
 ## Examples
 
 ### Example 1 - Basic motion
