@@ -15,10 +15,10 @@ To get started, follow the [setup](#setup) below.
 
 To get started with JetRacer, follow these steps
 
-1. Order parts from the [bill of materials](docs/nvidia_racecar/bill_of_materials.md)
+1. Order parts from the [bill of materials](docs/bill_of_materials.md)
 
-2. Follow the [hardware setup](docs/nvidia_racecar/hardware_setup.md)
-3. Follow the [software setup](docs/nvidia_racecar/software_setup.md)
+2. Follow the [hardware setup](docs/hardware_setup.md)
+3. Follow the [software setup](docs/software_setup.md)
 4. Run through the [examples](#examples)
 
 ## Examples
