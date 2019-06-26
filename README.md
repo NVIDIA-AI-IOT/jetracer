@@ -11,9 +11,11 @@ To get started, pick a [car](#cars) and follow the instructions.
 
 ## Cars
 
-| Model | Description | Picture | Instructions |
-|------|----------|-------------|--------------|
-| NVIDIA | <img src="https://lh3.googleusercontent.com/NKCZUpv25TTaZ4PFVbxIUZkzVP7l90xhGrmiXJo4R6edUQnWp5coYkM7J1T9pZOnHM6KyhmdxXwpsn7or_8r--yNva_fPAdjZnqdNU3_NUSK7iGxqFzQ0Ucjb0F4WucMUg4MRYOJ5so" height=128> |  1/18th scale with manual override | [docs/nvidia/instructions.md](docs/nvidia/instructions.md) |
+### NVIDIA
+
+<img src="https://lh3.googleusercontent.com/NKCZUpv25TTaZ4PFVbxIUZkzVP7l90xhGrmiXJo4R6edUQnWp5coYkM7J1T9pZOnHM6KyhmdxXwpsn7or_8r--yNva_fPAdjZnqdNU3_NUSK7iGxqFzQ0Ucjb0F4WucMUg4MRYOJ5so" height=256>
+
+The NVIDIA JetRacer is a 1/18th scale RC car based on the [Traxxas LaTrax Rally](https://www.hobbytown.com/traxxas-latrax-rally-1-18-4wd-rtr-rally-racer-orange-tra75054-5-orng/p630139).  To get started with this car, follow the [instructions](docs/nvidia_racecar/instructions.md).
 
 ## Usage
 
