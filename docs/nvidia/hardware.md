@@ -2,9 +2,9 @@
 
 This page details everything you need to build JetRacer.
 
-## Step 1 - Order Parts
+## Bill of Materials
 
-First, you need to order these parts. 
+You need to order these parts to build JetRacer.
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
@@ -18,3 +18,7 @@ First, you need to order these parts.
 | USB A -> 2.1mm Barrel Cable | 1 | $7.00 | [Amazon](https://www.amazon.com/gp/product/B075112RM6/) |  |
 | M2x6mm Screw Pack | 1 | $13.53 | [Amazon](https://www.amazon.com/gp/product/B01FXGHO2M/) | 12 screws needed per car |
 | M3x20mm Standoff Pack | 1 | $6.99 | [Amazon](https://www.amazon.com/dp/B072DVGWHZ/ref=cm_sw_su_dp) | 4 standoffs needed per car |
+| WiFi Card | 1 | $18.95 | [Amazon](https://amzn.to/2WKEkum), [NewEgg](https://www.neweggbusiness.com/Product/Product.aspx?Item=9SIV21M85N2699) |  |
+| WiFi Antennas | 2 | $5.06 | [Arrow](https://www.arrow.com/en/products/2042811100/molex) |  |
+
+## Hardware Setup
