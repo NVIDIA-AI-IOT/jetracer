@@ -19,7 +19,7 @@ To get started with JetRacer, follow these steps
 
 2. Follow the [hardware setup](docs/nvidia_racecar/hardware_setup.md)
 3. Follow the [software setup](docs/nvidia_racecar/software_setup.md)
-4. Run through the [examples](docs/nvidia_racecar/examples.md)
+4. Run through the [examples](#examples)
 
 ## Usage
 
