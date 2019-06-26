@@ -1,6 +1,6 @@
 # JetRacer - Bill of Materials
 
-You need to order these parts to build JetRacer.  After you've received the parts, follow the [hardware setup](hardware_setup.md).
+This page lists the parts needed to build JetRacer.  After you've received the parts, follow the [hardware setup](hardware_setup.md).
 
 ## Jetson Nano
 
