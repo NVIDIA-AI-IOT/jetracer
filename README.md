@@ -23,4 +23,33 @@ The NVIDIA JetRacer is a 1/18th scale car based on the [Traxxas LaTrax Rally](ht
 3. Follow the [software setup](docs/nvidia/software_setup.md)
 4. Run through the [examples](docs/nvidia/examples.md)
 
+## Usage
+
+### Create racecar
+
+```python
+from jetracer.nvidia_racecar import NvidiaRacecar
+
+car = NvidiaRacecar()
+```
+
+### Control
+
+```python
+car.steering = 0.3
+car.throttle = 0.6
+```
+
 ## Examples
+
+### Example 1 - Basic motion
+
+### Example 2 - Road following
+
+## See also
+
+* [JetBot](http://github.com/NVIDIA-AI-IOT/jetbot) - An educational AI robot based on NVIDIA Jetson Nano
+
+* [JetCam](http://github.com/NVIDIA-AI-IOT/jetcam) - An easy to use Python camera interface for NVIDIA Jetson
+* [JetCard](http://github.com/NVIDIA-AI-IOT/jetcard) - An SD card image for web programming AI projects with NVIDIA Jetson Nano
+* [torch2trt](http://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter
