@@ -9,9 +9,7 @@ JetRacer is an educational AI racecar using NVIDIA Jetson Nano that is
 
 To get started, pick a [car](#cars) and follow the instructions.
 
-## Cars
-
-These cars implement the easy to use [Racecar](jetracer/racecar.py) interface.  
+## Cars 
 
 ### NVIDIA
 
