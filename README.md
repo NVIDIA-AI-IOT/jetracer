@@ -13,7 +13,7 @@ To get started, pick a [car](#cars) and follow the instructions.
 
 | Model | Description | Picture | Instructions |
 |------|----------|-------------|--------------|
-| NVIDIA | 1/18th scale with manual override | <img src="https://lh3.googleusercontent.com/NKCZUpv25TTaZ4PFVbxIUZkzVP7l90xhGrmiXJo4R6edUQnWp5coYkM7J1T9pZOnHM6KyhmdxXwpsn7or_8r--yNva_fPAdjZnqdNU3_NUSK7iGxqFzQ0Ucjb0F4WucMUg4MRYOJ5so" max-height=128> | [docs/nvidia/instructions.md](docs/nvidia/instructions.md) |
+| NVIDIA | 1/18th scale with manual override | <img src="https://lh3.googleusercontent.com/NKCZUpv25TTaZ4PFVbxIUZkzVP7l90xhGrmiXJo4R6edUQnWp5coYkM7J1T9pZOnHM6KyhmdxXwpsn7or_8r--yNva_fPAdjZnqdNU3_NUSK7iGxqFzQ0Ucjb0F4WucMUg4MRYOJ5so" max-height=56> | [docs/nvidia/instructions.md](docs/nvidia/instructions.md) |
 
 ## Usage
 
