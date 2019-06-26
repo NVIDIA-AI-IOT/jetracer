@@ -2,7 +2,7 @@
 
 You need to order these parts to build JetRacer.
 
-### Compute system
+### Jetson Nano
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
