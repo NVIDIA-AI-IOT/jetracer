@@ -7,7 +7,7 @@ JetRacer is an educational AI racecar using NVIDIA Jetson Nano that is
 * Educational - Examples from basic motion to AI road following
 * Fun! - Interactively programmed from your web browser
 
-To get started, check out the [JetRacer Wiki](#).
+To get started, pick a [car](#cars) and follow the instructions.
 
 ## Cars
 
