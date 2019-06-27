@@ -8,6 +8,7 @@
 ### Step 3 - Remove RC receiver from car
 ## Phase 2 - Car wiring
 ### Step 1 - Connect camera to Jetson
+### Step 2 - Connect WiFi to Jetson
 ### Step 2 - Connect Jetson to servo driver
 ### Step 3 - Connect servo driver to multiplexer
 ### Step 4 - Connect RC receiver to multiplexer
