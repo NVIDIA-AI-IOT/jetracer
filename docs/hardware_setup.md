@@ -4,6 +4,13 @@
 
 ## Phase 1 - Car disassembly
 ### Step 1 - Remove shroud from car
+
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60310435-c165b600-9907-11e9-858b-238e801b11ab.JPG" height=128>
+<img src="https://user-images.githubusercontent.com/25759564/60310436-c165b600-9907-11e9-88d1-fd009d015eda.JPG" height=128>
+<img src="https://user-images.githubusercontent.com/25759564/60310437-c1fe4c80-9907-11e9-8862-f0249a61c680.JPG" height=128>
+<img src="https://user-images.githubusercontent.com/25759564/60310439-c1fe4c80-9907-11e9-8495-990fa6ae926e.JPG" height=128>
+
 ### Step 2 - Remove throttle speed controller from car
 ### Step 3 - Remove RC receiver from car
 ## Phase 2 - Car wiring
