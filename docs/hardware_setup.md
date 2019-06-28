@@ -103,13 +103,14 @@
 <img src="https://user-images.githubusercontent.com/25759564/60318104-976fbc00-9926-11e9-9dc1-9b2f5c9efb0f.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60317768-56c37300-9925-11e9-9ce2-fb43b7a70c4a.JPG" height=128/>
 
-### Step 5 - Mount multiplexer to base plate
+### Step 5 - Mount components to base plate
 
 <a></a>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60318997-d9e6c800-9929-11e9-8606-c1f020710518.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60318999-da7f5e80-9929-11e9-921b-c63e1bfc1f9e.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319310-d0aa2b00-992a-11e9-95a0-4e00e010acf9.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319312-d0aa2b00-992a-11e9-9631-d5c688ea67b7.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319370-0e0eb880-992b-11e9-8854-1220bd1e806b.JPG" height=128/>
 
 ### Step 6 - Mount servo driver to base plate
 
