@@ -96,7 +96,7 @@
 <img src="https://user-images.githubusercontent.com/25759564/60317613-bc632f80-9924-11e9-89ab-a7d3dfec94d7.JPG" height=128/>
 
 
-# Step 4 - Route servo motor wire through base plate
+### Step 4 - Route servo motor wire through base plate
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60318103-976fbc00-9926-11e9-90fc-d17feb20796e.JPG" height=128/>
@@ -112,14 +112,20 @@
 <img src="https://user-images.githubusercontent.com/25759564/60319312-d0aa2b00-992a-11e9-9631-d5c688ea67b7.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60319370-0e0eb880-992b-11e9-8854-1220bd1e806b.JPG" height=128/>
 
-### Step 6 - Mount servo driver to base plate
+### Step 6 - Insert WiFi card
 
 <a></a>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319810-87f37180-992c-11e9-87a5-745b7bb57a13.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319811-888c0800-992c-11e9-9b39-01b0df050d69.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319812-888c0800-992c-11e9-8570-e6991fc1ce4d.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319813-888c0800-992c-11e9-9280-de99940abd95.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319815-888c0800-992c-11e9-9884-1bab46691048.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319816-89249e80-992c-11e9-8c5b-7287c798221c.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319817-89249e80-992c-11e9-98d8-0628f0b53d43.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319818-89249e80-992c-11e9-8411-96abda0a94e7.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319819-89249e80-992c-11e9-8cee-9d53e81df454.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60319821-89249e80-992c-11e9-8374-ee5d0ce24fe5.JPG" height=128/>
+
 
 ### Step 7 - Mount Jetson Nano to base plate
 
