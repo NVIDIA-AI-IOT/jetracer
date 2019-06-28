@@ -132,7 +132,7 @@
 
 1. Remove the 4 screws indicated to expose holes used to mount the base plate
 
-### Step 3 - Mount base plate to RC car
+### Step 4 - Mount base plate to RC car
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60317630-bd945c80-9924-11e9-8139-5d7f5b8ad6a9.JPG" height=128/>
@@ -149,14 +149,21 @@
 2. Attach the base plate to the RC car chassis as indicated
 3. Fasten the base plate using a hex screwdriver
 
-### Step 4 - Route servo motor wire through base plate
+### Step 5 - Route servo motor wire through base plate
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60318103-976fbc00-9926-11e9-90fc-d17feb20796e.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60318104-976fbc00-9926-11e9-9dc1-9b2f5c9efb0f.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60317768-56c37300-9925-11e9-9ce2-fb43b7a70c4a.JPG" height=128/>
 
-### Step 5 - Mount components to base plate
+> If the servo cable is not long enough to reach around the base plate, please route it as follows
+
+1. Remove the servo cable from ``OUT1`` on the multiplexer that we attached previously
+
+2. Route the servo wire through the slot base plate as indicated
+3. Reconnect the servo cable to ``OUT1`` on the multiplexer
+
+### Step 6 - Mount components to base plate
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60318997-d9e6c800-9929-11e9-8606-c1f020710518.JPG" height=128/>
@@ -165,7 +172,13 @@
 <img src="https://user-images.githubusercontent.com/25759564/60319312-d0aa2b00-992a-11e9-9631-d5c688ea67b7.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60319370-0e0eb880-992b-11e9-8854-1220bd1e806b.JPG" height=128/>
 
-### Step 6 - Connect WiFi card
+1. Select 10 of the ``M2x6mm`` screws
+
+2. Fasten the multiplexer to the base plate
+3. Fasten the servo driver to the base plate
+4. Fasten the Jetson Nano to the base plate
+
+### Step 7 - Connect WiFi card
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60319810-87f37180-992c-11e9-87a5-745b7bb57a13.JPG" height=128/>
@@ -179,7 +192,7 @@
 <img src="https://user-images.githubusercontent.com/25759564/60319819-89249e80-992c-11e9-8cee-9d53e81df454.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60319821-89249e80-992c-11e9-8374-ee5d0ce24fe5.JPG" height=128/>
 
-### Step 7 - Connect camera
+### Step 8 - Connect camera
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60320486-b4a88880-992e-11e9-93ad-65ea2f051572.JPG" height=128/>
@@ -189,14 +202,14 @@
 <img src="https://user-images.githubusercontent.com/25759564/60320789-a3ac4700-992f-11e9-8280-c689d609c18b.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60320790-a3ac4700-992f-11e9-9afc-f48c9f4a176e.JPG" height=128/>
 
-### Step 8 - Mount USB battery pack
+### Step 9 - Mount USB battery pack
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60321112-b1ae9780-9930-11e9-8f84-24cc304af5f9.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60321113-b1ae9780-9930-11e9-9462-685e0d9e9464.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60321114-b1ae9780-9930-11e9-80bf-84522d1ce708.JPG" height=128/>
 
-### Step 9 - Attach USB barrel plug
+### Step 10 - Attach USB barrel plug
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60322349-14556280-9934-11e9-8c25-4394eddda4e2.JPG" height=128/>
