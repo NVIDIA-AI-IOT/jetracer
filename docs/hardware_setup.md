@@ -103,14 +103,35 @@
 <img src="https://user-images.githubusercontent.com/25759564/60318104-976fbc00-9926-11e9-9dc1-9b2f5c9efb0f.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60317768-56c37300-9925-11e9-9ce2-fb43b7a70c4a.JPG" height=128/>
 
-### Step 5 - Mount Jetson Nano to base plate
+### Step 5 - Mount multiplexer to base plate
 
 <a></a>
 <img src="" height=128/>
 <img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
 
 ### Step 6 - Mount servo driver to base plate
-### Step 7 - Mount multiplexer to base plate
+
+<a></a>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+
+### Step 7 - Mount Jetson Nano to base plate
+
+<a></a>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+
 ### Step 8 - Connect camera to Jetson
 ### Step 9 - Connect WiFi to Jetson
 
