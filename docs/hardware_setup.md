@@ -238,6 +238,38 @@
 
     > Before powering on, you'll need to follow the [software setup](software_setup.md) to configure the SD card
     
-## Phase 3 - Radio disassembly
-## Phase 4 - Radio wiring
-## Phase 5 - Radio assembly
+## Phase 4 - RC transmitter modification
+
+## Step 1 - Dissasmble radio
+
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60376010-fc77f000-99c0-11e9-9e2a-478a5da88062.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60376011-fc77f000-99c0-11e9-827f-77e4df18516f.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60376014-fda91d00-99c0-11e9-8a45-ca3ef0f4831c.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60376015-fe41b380-99c0-11e9-9915-d31b6d32e692.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60376016-fe41b380-99c0-11e9-9f2f-892026211c67.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60376019-feda4a00-99c0-11e9-9aa9-89d6ea78532b.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60376020-ff72e080-99c0-11e9-907e-1ccd5c805a20.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60376023-ff72e080-99c0-11e9-8bad-3bc2d4577207.JPG" height=128/>
+
+1. Remove the 5 screws securing radio halves with a phillips screwdriver
+
+2. Peel off the radio stick joining the two halves
+3. Place the radio sticker on one half of the radio
+4. Remove the battery cover
+5. Separate the radio into halves
+
+## Step 2 - Drill hole in RC transmitter for manual override switch
+
+<a></a>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+
+## Step 3 - 
