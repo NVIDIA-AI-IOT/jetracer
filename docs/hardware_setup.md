@@ -40,6 +40,7 @@
 <img src="https://user-images.githubusercontent.com/25759564/60312425-23c2b480-9910-11e9-94af-ccc7b5d9f07a.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60312427-245b4b00-9910-11e9-8781-ba4ec20c0012.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60312429-245b4b00-9910-11e9-84d5-f3ccf10fcf86.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60312430-245b4b00-9910-11e9-8244-22c40b3b5851.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60312431-245b4b00-9910-11e9-8a6d-f6f1ae954ab2.JPG" height=128/>
 
 ### Step 3 - Connect RC receiver to multiplexer
@@ -52,6 +53,7 @@
 <img src="https://user-images.githubusercontent.com/25759564/60313008-4d7cdb00-9912-11e9-9894-eac89f324822.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60313009-4e157180-9912-11e9-984a-afbf62bbb15d.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60313010-4e157180-9912-11e9-858c-6a463433f53f.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60313012-4e157180-9912-11e9-9743-5647a3c5599b.JPG" height=128/>
 
 ### Step 4 - Connect multiplexer to steering servo
 ### Step 5 - Connect multiplexer to speed controller (ESC)
