@@ -43,6 +43,10 @@
 <img src="https://user-images.githubusercontent.com/25759564/60311872-eceb9f00-990d-11e9-8770-3021aa6b11b3.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60311873-eceb9f00-990d-11e9-9872-cae74856b125.JPG" height=128/>
 
+1. Select 4 female-to-female jumper cables from the bundle
+
+2. Attach the jumpers to the servo driver pins VCC (white), SDA (gray), SCL (purple) and GND (black)
+3. Attach the other end of the jumpers to the Jetson Nano 3.3V (white), 3 (gray), 5 (purple) and GND (black)
 
 ### Step 2 - Connect servo driver to multiplexer
 
