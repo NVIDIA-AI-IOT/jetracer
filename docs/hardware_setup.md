@@ -192,6 +192,14 @@
 <img src="https://user-images.githubusercontent.com/25759564/60319819-89249e80-992c-11e9-8cee-9d53e81df454.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60319821-89249e80-992c-11e9-8374-ee5d0ce24fe5.JPG" height=128/>
 
+1. Attach the two antennas to the WiFi card
+
+2. Remove the Jetson Nano module from the developer kit board as indicated
+3. Remove the M2 connector securing screw on the developer kit base board
+4. Insert the WiFi card into the M2 connector slot
+5. Reattach the screw to secure the WiFi card
+6. Reattach the Jetson Nano module to the developer kit board
+
 ### Step 8 - Connect camera
 
 <a></a>
