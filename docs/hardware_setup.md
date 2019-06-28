@@ -24,13 +24,13 @@
 <img src="https://user-images.githubusercontent.com/25759564/60311234-38e91480-990b-11e9-9277-3f71895a40c7.JPG" height=128/>
 
 ## Phase 2 - Car wiring
-### Step 1 - Connect camera to Jetson
-### Step 2 - Connect WiFi to Jetson
-### Step 2 - Connect Jetson to servo driver
-### Step 3 - Connect servo driver to multiplexer
-### Step 4 - Connect RC receiver to multiplexer
-### Step 5 - Connect multiplexer to steering servo
-### Step 6 - Connect multiplexer to speed controller (ESC)
+### Step 1 - Connect Jetson to servo driver
+### Step 2 - Connect servo driver to multiplexer
+### Step 3 - Connect RC receiver to multiplexer
+### Step 4 - Connect multiplexer to steering servo
+### Step 5 - Connect multiplexer to speed controller (ESC)
+### Step 6 - Connect camera to Jetson
+### Step 7 - Connect WiFi to Jetson
 
 ## Phase 3 - Car assembly
 ### Step 1 - Mount speed controller to base plate
