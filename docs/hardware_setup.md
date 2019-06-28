@@ -97,7 +97,7 @@
 
 ## Phase 3 - Car assembly
 
-### Step 1 - Mount speed controller to base plate
+### Step 1 - Mount ESC to base plate
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60316400-2d074d80-991f-11e9-8f4c-49cbf84b3fb8.JPG" height=128/>
@@ -105,12 +105,32 @@
 <img src="https://user-images.githubusercontent.com/25759564/60316392-2c6eb700-991f-11e9-89cc-3f9babc37a17.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60316393-2c6eb700-991f-11e9-94e5-4ebe4b2582fd.JPG" height=128/>
 
+1. Attach ESC to the base plate as indicated
+
+    > Notice the two slots on the base plate for the ESC
+    
+2. Press down firmly to secure the ESC
+
 ### Step 2 - Mount RC receiver to base plate
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60316395-2d074d80-991f-11e9-80dc-63c819b76963.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60316445-5627de00-991f-11e9-8408-35b9c1fec8da.JPG" height=128/>
 
+1. Attach the RC receiver to the base plate as indicated
+
+2. Press down firmly to secure the RC receiver
+
+### Step 3 - Expose screw holes used to mount base plate
+
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60317621-bcfbc600-9924-11e9-9cb5-af886100dd48.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60317622-bcfbc600-9924-11e9-8893-3c46e21ec259.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60317624-bcfbc600-9924-11e9-9b5c-54b6eb311153.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60317625-bcfbc600-9924-11e9-9f2b-830cce4cadb3.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60317628-bd945c80-9924-11e9-9848-36492cc190cd.JPG" height=128/>
+
+1. Remove the 4 screws indicated to expose holes used to mount the base plate
 
 ### Step 3 - Mount base plate to RC car
 
@@ -124,6 +144,10 @@
 <img src="https://user-images.githubusercontent.com/25759564/60317611-bc632f80-9924-11e9-94e2-1bacf358ebe4.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60317613-bc632f80-9924-11e9-89ab-a7d3dfec94d7.JPG" height=128/>
 
+1. Select 4 ``M3x20mm standoffs``, 2 ``M2x38mm`` screws and 2 ``M2x30mm`` screws
+
+2. Attach the base plate to the RC car chassis as indicated
+3. Fasten the base plate using a hex screwdriver
 
 ### Step 4 - Route servo motor wire through base plate
 
