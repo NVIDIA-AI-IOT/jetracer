@@ -65,24 +65,41 @@
 <img src="https://user-images.githubusercontent.com/25759564/60314888-1c53d900-9919-11e9-8c84-4a91f0e727af.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60314889-1c53d900-9919-11e9-97aa-9015e4e94aca.JPG" height=128/>
 
-### Step 6 - Connect camera to Jetson
+
+## Phase 3 - Car assembly
+
+### Step 1 - Mount speed controller to base plate
+
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60316400-2d074d80-991f-11e9-8f4c-49cbf84b3fb8.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60316401-2d074d80-991f-11e9-8f3b-82714cfef58f.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60316392-2c6eb700-991f-11e9-89cc-3f9babc37a17.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60316393-2c6eb700-991f-11e9-94e5-4ebe4b2582fd.JPG" height=128/>
+
+### Step 2 - Mount RC receiver to base plate
+
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60316395-2d074d80-991f-11e9-80dc-63c819b76963.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60316445-5627de00-991f-11e9-8408-35b9c1fec8da.JPG" height=128/>
+
+
+### Step 3 - Mount base plate to RC car
 
 <a></a>
 <img src="" height=128/>
 <img src="" height=128/>
 <img src="" height=128/>
 
-### Step 7 - Connect WiFi to Jetson
 
-## Phase 3 - Car assembly
-### Step 1 - Mount speed controller to base plate
-### Step 2 - Mount RC receiver to base plate
-### Step 3 - Mount base plate to RC car
 ### Step 4 - Mount Jetson Nano to base plate
 ### Step 5 - Mount servo driver to base plate
 ### Step 6 - Mount multiplexer to base plate
-### Step 7 - Mount camera mount to base plate
-### Step 8 - Mount camera to camera mount
+### Step 7 - Connect camera to Jetson
+### Step 8 - Connect WiFi to Jetson
+
+### Step 9 - Mount camera mount to base plate
+### Step 10 - Mount camera to camera mount
+
 ## Phase 3 - Radio disassembly
 ## Phase 4 - Radio wiring
 ## Phase 5 - Radio assembly
