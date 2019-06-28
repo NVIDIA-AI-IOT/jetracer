@@ -224,12 +224,20 @@
 <img src="https://user-images.githubusercontent.com/25759564/60321113-b1ae9780-9930-11e9-9462-685e0d9e9464.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60321114-b1ae9780-9930-11e9-80bf-84522d1ce708.JPG" height=128/>
 
+1. Attach the USB battery pack to the underside of the base plate as indicated
+
 ### Step 10 - Attach USB barrel plug
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60322349-14556280-9934-11e9-8c25-4394eddda4e2.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60322350-14556280-9934-11e9-8c31-70982af7e08e.JPG" height=128/>
 
+1. Attach the 2 pin jumper to ``J48`` on the Jetson Nano developer kit to enable barrel plug power
+
+2. Insert the barrel plug into the Jetson Nano developer kit
+
+    > Before powering on, you'll need to follow the [software setup](software_setup.md) to configure the SD card
+    
 ## Phase 3 - Radio disassembly
 ## Phase 4 - Radio wiring
 ## Phase 5 - Radio assembly
