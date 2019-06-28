@@ -76,6 +76,11 @@
 <img src="https://user-images.githubusercontent.com/25759564/60313010-4e157180-9912-11e9-858c-6a463433f53f.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60313012-4e157180-9912-11e9-9743-5647a3c5599b.JPG" height=128/>
 
+1. Connect channel ``3`` on the RC receiver to ``SEL`` on the multiplexer
+
+2. Connect channel ``2`` on the RC receiver to ``M2`` on the multiplexer
+3. Connect channel ``1`` on the RC receiver to ``M1`` on the multiplexer
+
 ### Step 4 - Connect multiplexer to ESC and servo
 
 <a></a>
@@ -86,6 +91,9 @@
 <img src="https://user-images.githubusercontent.com/25759564/60314888-1c53d900-9919-11e9-8c84-4a91f0e727af.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60314889-1c53d900-9919-11e9-97aa-9015e4e94aca.JPG" height=128/>
 
+1. Connect the servo to ``OUT1`` on the multiplexer
+
+2. Connect the ESC to ``OUT2`` on the multiplexer
 
 ## Phase 3 - Car assembly
 
