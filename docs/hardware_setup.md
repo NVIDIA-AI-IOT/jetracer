@@ -58,17 +58,20 @@
 ### Step 4 - Connect multiplexer to ESC and servo
 
 <a></a>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60314883-1bbb4280-9919-11e9-9f76-c561c9de9cb2.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60314885-1bbb4280-9919-11e9-8eb2-5c1f97b6b6dc.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60314884-1bbb4280-9919-11e9-8c4f-d43a5441fbe7.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60314887-1c53d900-9919-11e9-9d48-3770831164c8.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60314888-1c53d900-9919-11e9-8c84-4a91f0e727af.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60314889-1c53d900-9919-11e9-97aa-9015e4e94aca.JPG" height=128/>
+
+### Step 6 - Connect camera to Jetson
+
+<a></a>
 <img src="" height=128/>
 <img src="" height=128/>
 <img src="" height=128/>
 
-### Step 6 - Connect camera to Jetson
 ### Step 7 - Connect WiFi to Jetson
 
 ## Phase 3 - Car assembly
