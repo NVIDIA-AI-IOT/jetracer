@@ -112,7 +112,7 @@
 <img src="https://user-images.githubusercontent.com/25759564/60319312-d0aa2b00-992a-11e9-9631-d5c688ea67b7.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60319370-0e0eb880-992b-11e9-8854-1220bd1e806b.JPG" height=128/>
 
-### Step 6 - Insert WiFi card
+### Step 6 - Connect WiFi card
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60319810-87f37180-992c-11e9-87a5-745b7bb57a13.JPG" height=128/>
@@ -126,24 +126,28 @@
 <img src="https://user-images.githubusercontent.com/25759564/60319819-89249e80-992c-11e9-8cee-9d53e81df454.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60319821-89249e80-992c-11e9-8374-ee5d0ce24fe5.JPG" height=128/>
 
-
-### Step 7 - Mount Jetson Nano to base plate
+### Step 7 - Connect camera
 
 <a></a>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60320486-b4a88880-992e-11e9-93ad-65ea2f051572.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60320259-07ce0b80-992e-11e9-82ae-bf8b7fa09b85.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60320260-07ce0b80-992e-11e9-92f7-fd6e4c83d264.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60320788-a3ac4700-992f-11e9-99d9-1dba9f1897f1.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60320789-a3ac4700-992f-11e9-8280-c689d609c18b.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60320790-a3ac4700-992f-11e9-9afc-f48c9f4a176e.JPG" height=128/>
 
-### Step 8 - Connect camera to Jetson
-### Step 9 - Connect WiFi to Jetson
+### Step 8 - Mount USB battery pack
 
-### Step 10 - Mount camera mount to base plate
-### Step 11 - Mount camera to camera mount
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60321112-b1ae9780-9930-11e9-8f84-24cc304af5f9.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60321113-b1ae9780-9930-11e9-9462-685e0d9e9464.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60321114-b1ae9780-9930-11e9-80bf-84522d1ce708.JPG" height=128/>
+
+### Step 9 - Attach USB barrel plug
+
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60322349-14556280-9934-11e9-8c25-4394eddda4e2.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60322350-14556280-9934-11e9-8c31-70982af7e08e.JPG" height=128/>
 
 ## Phase 3 - Radio disassembly
 ## Phase 4 - Radio wiring
