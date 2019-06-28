@@ -210,6 +210,13 @@
 <img src="https://user-images.githubusercontent.com/25759564/60320789-a3ac4700-992f-11e9-8280-c689d609c18b.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60320790-a3ac4700-992f-11e9-9afc-f48c9f4a176e.JPG" height=128/>
 
+1. Attach the camera to the Jetson Nano developer kit as indicated
+
+    > Be careful when loosing the camera connector to not break it
+    
+2. Attach the camera mount to the base plate using 4 ``M2x6mm`` screws
+3. Attach the camera to the camera mount using 4 ``M2x6mm`` screws
+
 ### Step 9 - Mount USB battery pack
 
 <a></a>
