@@ -86,19 +86,32 @@
 ### Step 3 - Mount base plate to RC car
 
 <a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60317630-bd945c80-9924-11e9-8139-5d7f5b8ad6a9.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60317631-bd945c80-9924-11e9-9eb0-c755fdb6d83f.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60317632-be2cf300-9924-11e9-8bd0-7b05f6f0ef2b.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60317633-be2cf300-9924-11e9-853a-59a2e0875410.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60317634-be2cf300-9924-11e9-83eb-3313d97d535e.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60317610-bc632f80-9924-11e9-9290-9b6ba270a515.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60317611-bc632f80-9924-11e9-94e2-1bacf358ebe4.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60317613-bc632f80-9924-11e9-89ab-a7d3dfec94d7.JPG" height=128/>
+
+
+# Step 4 - Route servo motor wire through base plate
+
+<img src="" height=128/>
+<img src="" height=128/>
 <img src="" height=128/>
 <img src="" height=128/>
 <img src="" height=128/>
 
+### Step 5 - Mount Jetson Nano to base plate
+### Step 6 - Mount servo driver to base plate
+### Step 7 - Mount multiplexer to base plate
+### Step 8 - Connect camera to Jetson
+### Step 9 - Connect WiFi to Jetson
 
-### Step 4 - Mount Jetson Nano to base plate
-### Step 5 - Mount servo driver to base plate
-### Step 6 - Mount multiplexer to base plate
-### Step 7 - Connect camera to Jetson
-### Step 8 - Connect WiFi to Jetson
-
-### Step 9 - Mount camera mount to base plate
-### Step 10 - Mount camera to camera mount
+### Step 10 - Mount camera mount to base plate
+### Step 11 - Mount camera to camera mount
 
 ## Phase 3 - Radio disassembly
 ## Phase 4 - Radio wiring
