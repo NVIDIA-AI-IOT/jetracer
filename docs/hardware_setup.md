@@ -11,6 +11,10 @@
 <img src="https://user-images.githubusercontent.com/25759564/60310437-c1fe4c80-9907-11e9-8862-f0249a61c680.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60310439-c1fe4c80-9907-11e9-8495-990fa6ae926e.JPG" height=128/>
 
+1. Remove the 4 pins securing the shroud
+
+2. Remove the shroud from the chassis
+
 ### Step 2 - Remove ESC and RC receiver from car
 
 <a></a>
@@ -22,6 +26,13 @@
 <img src="https://user-images.githubusercontent.com/25759564/60311231-38507e00-990b-11e9-832d-fdb3b696f336.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60311233-38e91480-990b-11e9-86be-5b01f8e4a9d2.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60311234-38e91480-990b-11e9-9277-3f71895a40c7.JPG" height=128/>
+
+1. Remove the two screws securing the electronics hub to the chassis
+
+2. Pry the electronics hub from the chassis
+3. Remove the ESC and RC receiver from the electronics hub
+4. Disconnect the two servo cables from the RC receiver
+5. Remove the foam adhesive from the RC receiver
 
 ## Phase 2 - Car wiring
 ### Step 1 - Connect Jetson to servo driver
