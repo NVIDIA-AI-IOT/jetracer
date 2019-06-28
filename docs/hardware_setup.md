@@ -25,6 +25,14 @@
 
 ## Phase 2 - Car wiring
 ### Step 1 - Connect Jetson to servo driver
+
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60311869-ec530880-990d-11e9-9b9b-efabfcef251e.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60311871-eceb9f00-990d-11e9-9786-bc463f637d74.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60311872-eceb9f00-990d-11e9-8770-3021aa6b11b3.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60311873-eceb9f00-990d-11e9-9872-cae74856b125.JPG" height=128/>
+
+
 ### Step 2 - Connect servo driver to multiplexer
 ### Step 3 - Connect RC receiver to multiplexer
 ### Step 4 - Connect multiplexer to steering servo
