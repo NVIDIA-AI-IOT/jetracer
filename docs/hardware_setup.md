@@ -55,8 +55,19 @@
 <img src="https://user-images.githubusercontent.com/25759564/60313010-4e157180-9912-11e9-858c-6a463433f53f.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60313012-4e157180-9912-11e9-9743-5647a3c5599b.JPG" height=128/>
 
-### Step 4 - Connect multiplexer to steering servo
-### Step 5 - Connect multiplexer to speed controller (ESC)
+### Step 4 - Connect multiplexer to ESC and servo
+
+<a></a>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+
 ### Step 6 - Connect camera to Jetson
 ### Step 7 - Connect WiFi to Jetson
 
