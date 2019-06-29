@@ -10,7 +10,7 @@ class Racecar(traitlets.HasTraits):
         if proposal['value'] > 1.0:
             return 1.0
         elif proposal['value'] < -1.0:
-            return 1.0
+            return -1.0
         else:
             return proposal['value']
         
@@ -19,6 +19,6 @@ class Racecar(traitlets.HasTraits):
         if proposal['value'] > 1.0:
             return 1.0
         elif proposal['value'] < -1.0:
-            return 1.0
+            return -1.0
         else:
             return proposal['value']
