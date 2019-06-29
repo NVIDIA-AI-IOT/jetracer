@@ -19,7 +19,7 @@ To get started with JetRacer, follow these steps
 
 2. Follow the [hardware setup](docs/hardware_setup.md)
 3. Follow the [software setup](docs/software_setup.md)
-4. Run through the [examples](#examples)
+4. Run through the [examples](docs/examples)
 
 ## Examples
 
