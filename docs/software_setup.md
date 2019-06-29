@@ -57,7 +57,7 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 
 2. Close the previous Jupyter Lab browser tab
 3. Open a new browser tab and navigate to ``http://<jetson_ip_address>:8888``
-4. If necessary, sign in with the password ``jetson``
+4. Sign in with the password ``jetson``
     
 ## Step 5 - Install Python packages
 
