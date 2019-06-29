@@ -40,7 +40,7 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
     ```bash
     sudo nmcli device wifi connect <ssid_name> password <password>
     ```
-4. Note down the WiFi IP address (``inet``) of the WiFi interface ``wlan0``.  We'll call this ``jetson_ip_address``
+4. Note down the WiFi IP address (``inet``) of the WiFi interface ``wlan0`` returned by the following command.  We'll call this ``jetson_ip_address``
     
     ```bash
     ifconfig
