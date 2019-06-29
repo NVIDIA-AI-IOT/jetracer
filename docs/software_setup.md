@@ -28,12 +28,7 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 
 1. Open a terminal in Jupyter Lab by clicking ``File`` -> ``New`` -> ``Terminal``
 
-2. In the terminal, type the following command to scan available WiFi networks
-
-    ```bash
-    sudo nmcli device wifi rescan
-    ```
-2. Type the following command to list available WiFi networks, and find the ``ssid_name`` of your network.
+2. In the terminal, type the following command to list available WiFi networks, and find the ``ssid_name`` of your network.
 
     ```bash
     sudo nmcli device wifi list
