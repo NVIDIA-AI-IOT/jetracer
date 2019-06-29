@@ -1,6 +1,15 @@
 # JetRacer - Hardware Setup
 
+Follow these instructions to build JetRacer.  After you've finished, move on to the [software setup](software_setup.md).
+
 ## Tools
+
+* Phillips screwdriver set
+* Hex screwdriver
+* Soldering iron
+* Drill with 3mm and 6mm drill bits
+* Pliers
+* Wire strippers
 
 ## Phase 1 - Car disassembly
 ### Step 1 - Remove shroud from car
