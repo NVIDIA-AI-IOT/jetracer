@@ -1,4 +1,4 @@
-# JetRacer - Hardware Setup
+# Hardware Setup
 
 Follow these instructions to build JetRacer.  After you've finished, move on to the [software setup](software_setup.md).
 
