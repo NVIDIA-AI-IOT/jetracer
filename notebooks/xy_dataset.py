@@ -6,10 +6,11 @@ import PIL.Image
 import torch.utils.data
 import subprocess
 import cv2
+import numpy as np
 
 
 class XYDataset(torch.utils.data.Dataset):
-    def __init__(self, directory, categories, transform=None):
+    def __init__(self, directory, categories, transform=None, random_hflip=False):
         super(XYDataset, self).__init__()
         self.directory = directory
         self.categories = categories
@@ -31,6 +32,10 @@ class XYDataset(torch.utils.data.Dataset):
         x = 2.0 * (ann['x'] / width - 0.5) # -1 left, +1 right
         y = 2.0 * (ann['y'] / height - 0.5) # -1 top, +1 bottom
         
+        if self.random_hflip and float(np.random.random(1)) > 0.5:
+            image = torch.from_numpy(image.numpy()[..., ::-1].copy())
+            x = -x
+            
         return image, ann['category_index'], torch.Tensor([x, y])
     
     def _parse(self, path):
