@@ -13,6 +13,7 @@ This page lists the parts needed to build JetRacer.  After you've received the p
 | USB Battery | 1 | $15.95 | [Amazon](https://www.amazon.com/5000-mah-Attom-Tech-Portable-Emergency/dp/B07MNWPFG8/) | Must provide at least 5V @ 2A |
 | USB A -> 2.1mm Barrel Cable | 1 | $7.00 | [Amazon](https://www.amazon.com/gp/product/B075112RM6/) |  |
 | 5V @ 4A Barrel Plug Power Supply | 1 | $14.95 | [Adafruit](https://www.adafruit.com/product/1466) | 2.1mm Iinner diameter |
+| Jumper Caps Pack | 1 | $5.09 | [Amazon](http://amzn.com/B077957RN7/) | 2.54mm pitch |
 
 ## RC Car
 
@@ -26,6 +27,8 @@ This page lists the parts needed to build JetRacer.  After you've received the p
 |------|:----------:|:------:|-----|-------|
 | RC Servo Controller | 1 | $6.99 | [Amazon](https://www.amazon.com/HiLetgo-PCA9685-Channel-12-Bit-Arduino/dp/B01D1D0CX2/) | PCA9685 |
 | RC Servo Multiplexer | 1 | $9.95 | [Pololu](https://www.pololu.com/product/2806) | |
+| Servo Extension Cable Pack | 1 | $5.91 | [Amazon](http://amzn.com/B00P6JJFIS/) | Male to Male, 10cm |
+| Jumper Wire Pack | 1 | $6.98 | [Amazon](http://amzn.com/B01EV70C78/) | Female to Female, > 10cm | |
 | Manual Override Switch Pack | 1 | $10.99 | [Amazon](https://www.amazon.com/gp/product/B07L74MMG8/) | |
 
 ## WiFi
