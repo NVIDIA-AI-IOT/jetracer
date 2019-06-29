@@ -39,3 +39,8 @@ In this example we'll show how to control JetRacer programatically from a web br
 7. Repeat this many times (say 50 to start)
 8. Train the model for several epochs (say 10 to start) and see how the model performs
 9. Iterate!  Try training a model, visualize the output in the live demo, find scenarios where the model is inaccurate and add data for those points, train again...
+10. When you want to demo the model, save it to the path ``road_following_model.pth`` and restart the ``interactive_regression.ipynb`` notebook
+
+### Step 3 - Run optimized live demo
+
+1. Open and follow the notebook ``road_following.ipynb``
