@@ -303,14 +303,16 @@
 <img src="https://user-images.githubusercontent.com/25759564/60377676-de64bc80-99cd-11e9-9997-01baa79ad4cc.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60377736-19ff8680-99ce-11e9-895e-0c5a5dbe6915.JPG" height=128/>
 
-## Step 7 -
+## Step 7 - Reassemble RC transmitter
 
 <a></a>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377737-19ff8680-99ce-11e9-8cf7-715df1081d53.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377760-33a0ce00-99ce-11e9-9a3f-beb0f7c11078.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377761-33a0ce00-99ce-11e9-9410-3f63f91fb4a7.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377762-33a0ce00-99ce-11e9-9071-d2a878a22212.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377763-33a0ce00-99ce-11e9-9c3e-0b3d9de2bf86.JPG" height=128/>
+
+# Hardware setup complete!
+
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60377764-33a0ce00-99ce-11e9-8aa4-688d0a05dc01.JPG" height=128/>
