@@ -16,6 +16,7 @@ class XYDataset(torch.utils.data.Dataset):
         self.categories = categories
         self.transform = transform
         self.refresh()
+        self.random_hflip = random_hflip
         
     def __len__(self):
         return len(self.annotations)
