@@ -1,8 +1,8 @@
 # Bill of Materials
 
-<img src="https://user-images.githubusercontent.com/4212806/60303370-1810c700-98eb-11e9-9393-dfc3e8799453.jpg" height=256>
-
 This page lists the parts needed to build JetRacer.  After you've received the parts, follow the [hardware setup](hardware_setup.md).
+
+<img src="https://user-images.githubusercontent.com/4212806/60303370-1810c700-98eb-11e9-9393-dfc3e8799453.jpg" height=256>
 
 ## Jetson Nano
 
@@ -58,3 +58,6 @@ You need a wide angle camera for JetRacer.  Pick an option and order the parts l
 | M2x6mm Screw Pack | 1 | $13.53 | [Amazon](https://www.amazon.com/gp/product/B01FXGHO2M/) | Mounts accessories to 3D printed base plate.  12 screws needed per car |
 | M3x20mm Standoff Pack | 1 | $6.99 | [Amazon](https://www.amazon.com/dp/B072DVGWHZ/ref=cm_sw_su_dp) | Mounts 3D printed base plate to RC chassis. 4 standoffs needed per car |
 
+## Next
+
+Follow the [hardware setup](hardware_setup.md).
