@@ -259,17 +259,40 @@
 4. Remove the battery cover
 5. Separate the radio into halves
 
-## Step 2 - Drill hole in RC transmitter for manual override switch
+## Step 2 - Remove trim / reset PCB
+
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60377677-de64bc80-99cd-11e9-90f3-136345e6f49f.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377678-de64bc80-99cd-11e9-994b-0e6bb898c83d.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377679-de64bc80-99cd-11e9-9c79-3a8dbb2efe30.JPG" height=128/>
+
+
+## Step 3 - Drill hole for manual override switch
+
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60377680-de64bc80-99cd-11e9-9af6-4f6de5c0c751.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377681-de64bc80-99cd-11e9-8158-161483ac51f7.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377682-defd5300-99cd-11e9-80eb-6d82ea5315eb.JPG" height=128/>
+
+## Step 4 - Drill hole for switch key
+
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60377685-defd5300-99cd-11e9-8eaa-9048b6e80a7c.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377686-df95e980-99cd-11e9-9417-c4f263ca1da5.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377687-df95e980-99cd-11e9-8c62-bcb5ac5b7ba9.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377688-df95e980-99cd-11e9-8ea5-0161914ba4dc.JPG" height=128/>
+
+## Step 5 - Fasten manual switch to RC transmitter
+
+<a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60377694-e0c71680-99cd-11e9-83f7-d67d579241ff.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377689-e02e8000-99cd-11e9-9e8a-aabdc0c82d05.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377690-e02e8000-99cd-11e9-8ee2-06c8951ba19f.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377691-e0c71680-99cd-11e9-8c93-6c6d01b22102.JPG" height=128/>
+
+## Step 6 - 
 
 <a></a>
 <img src="" height=128/>
 <img src="" height=128/>
 <img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-<img src="" height=128/>
-
-## Step 3 - 
