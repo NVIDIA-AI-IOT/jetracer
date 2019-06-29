@@ -266,6 +266,9 @@
 <img src="https://user-images.githubusercontent.com/25759564/60377678-de64bc80-99cd-11e9-994b-0e6bb898c83d.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60377679-de64bc80-99cd-11e9-9c79-3a8dbb2efe30.JPG" height=128/>
 
+1. Remove screw securing the trim/reset PCB
+
+2. Carefully sliding the wires out of the securing clip and pull the PCB to the side
 
 ## Step 3 - Drill hole for manual override switch
 
@@ -273,6 +276,10 @@
 <img src="https://user-images.githubusercontent.com/25759564/60377680-de64bc80-99cd-11e9-9af6-4f6de5c0c751.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60377681-de64bc80-99cd-11e9-8158-161483ac51f7.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60377682-defd5300-99cd-11e9-80eb-6d82ea5315eb.JPG" height=128/>
+
+1. Mark the RC transmitter as indicated by the screwdriver tip
+
+2. Using a ``6mm`` diameter drill bit, drill a hole through the marked location
 
 ## Step 4 - Drill hole for switch key
 
@@ -282,6 +289,12 @@
 <img src="https://user-images.githubusercontent.com/25759564/60377687-df95e980-99cd-11e9-8c62-bcb5ac5b7ba9.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60377688-df95e980-99cd-11e9-8ea5-0161914ba4dc.JPG" height=128/>
 
+1. Temporarily insert the switch into the RC transmitter
+
+2. Place the key washer on the other side of the transmitter
+3. Mark the RC transmitter at the location of the screwdriver tip
+4. Using a roughly ``2.5mm - 3.5mm`` drill bit, drill a hole through the marked location
+
 ## Step 5 - Fasten manual switch to RC transmitter
 
 <a></a>
@@ -290,6 +303,11 @@
 <img src="https://user-images.githubusercontent.com/25759564/60377690-e02e8000-99cd-11e9-8ee2-06c8951ba19f.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60377691-e0c71680-99cd-11e9-8c93-6c6d01b22102.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60377695-e15fad00-99cd-11e9-8219-fdc61df2e137.JPG" height=128/>
+
+1. Re-insert the manual override switch into the hole
+
+2. Place the keyed washer and nut back on the switch
+3. Fasten the switch to the RC transmitter using pliers
 
 ## Step 6 - Solder switch to RC transmitter PCB
 
@@ -303,6 +321,15 @@
 <img src="https://user-images.githubusercontent.com/25759564/60377676-de64bc80-99cd-11e9-9997-01baa79ad4cc.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60377736-19ff8680-99ce-11e9-895e-0c5a5dbe6915.JPG" height=128/>
 
+1. Cut the wires roughly at the length indicated
+
+    > Ensure you cut the wires with enough length to reach the solder pads
+
+2. Strip the wires as indicated
+2. Apply solder to the two pads indicated
+3. Apply solder to the stripped wire leads
+4. Using pliers, hold the wires against the pads indicated and apply heat with the soldering iron
+
 ## Step 7 - Reassemble RC transmitter
 
 <a></a>
@@ -312,7 +339,14 @@
 <img src="https://user-images.githubusercontent.com/25759564/60377762-33a0ce00-99ce-11e9-9071-d2a878a22212.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60377763-33a0ce00-99ce-11e9-9c3e-0b3d9de2bf86.JPG" height=128/>
 
+1. Re-attach the halves of the RC transmitter
+
+2. Fasten the halves using the original screws
+3. Insert the 4 ``AA`` batteries, and apply the battery cover
+
 # Hardware setup complete!
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60377764-33a0ce00-99ce-11e9-8aa4-688d0a05dc01.JPG" height=256/>
+
+Next up, follow the [software setup](software_setup.md).
