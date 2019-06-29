@@ -27,6 +27,10 @@ To get started with JetRacer, follow these steps
 
 ### Example 2 - Road following
 
+In this example, you'll teach JetRacer how to follow a road using AI.  After training the neural network using the [interactive training notebook](notebooks/interactive_regression.ipynb), you'll deploy an optimized live demo on JetRacer.  Learn more in the [examples](docs/examples.md).
+
+<img src="https://user-images.githubusercontent.com/4212806/60383389-bd7b8600-9a24-11e9-9f64-926e5edb52cc.gif" height=300/>
+
 ## See also
 
 * [JetBot](http://github.com/NVIDIA-AI-IOT/jetbot) - An educational AI robot based on NVIDIA Jetson Nano
