@@ -31,19 +31,19 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 2. In the terminal, type the following command to scan available WiFi networks
 
     ```bash
-    nmcli device wifi rescan
+    sudo nmcli device wifi rescan
     ```
 2. Type the following command to list available WiFi networks, and find the ``ssid_name`` of your network.
 
     ```bash
-    nmcli device wifi list
+    sudo nmcli device wifi list
     ```
 3. Connect to  the selected WiFi network
 
     >  It should be on the same network that you will be webprogramming from
 
     ```bash
-    nmcli device wifi connect <ssid_name> password <password>
+    sudo nmcli device wifi connect <ssid_name> password <password>
     ```
 4. Type the following command to find the IP address of the ``wlan0`` (WiFi) interface.  We'll call this ``jetson_ip_address``
     
