@@ -315,4 +315,4 @@
 # Hardware setup complete!
 
 <a></a>
-<img src="https://user-images.githubusercontent.com/25759564/60377764-33a0ce00-99ce-11e9-8aa4-688d0a05dc01.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377764-33a0ce00-99ce-11e9-8aa4-688d0a05dc01.JPG" height=256/>
