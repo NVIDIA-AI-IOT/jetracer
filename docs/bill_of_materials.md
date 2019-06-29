@@ -15,28 +15,30 @@ This page lists the parts needed to build JetRacer.  After you've received the p
 | 5V @ 4A Barrel Plug Power Supply | 1 | $14.95 | [Adafruit](https://www.adafruit.com/product/1466) | 2.1mm Iinner diameter |
 | Jumper Caps Pack | 1 | $5.09 | [Amazon](http://amzn.com/B077957RN7/) | 2.54mm pitch |
 
-## RC Car
+## Chassis
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
 | RC Car | 1 | $109.95 | [HobbyTown](https://www.hobbytown.com/traxxas-latrax-rally-1-18-4wd-rtr-rally-racer-green-tra75054-5-grn/p630138), [Amazon](http://amzn.com/B06W57XLRW) | Traxxas LaTrax Rally 1/18 4WD w/ 2.4GHz radio |
+| 3d-printed base board | 1 |  | [STL file](../assets/jetracer_latrax_base_board.stl) |  |
+| 3d-printed camera mount | 1 |  | [STL file](../assets/jetracer_latrax_cam_mount.stl) |  |
 
-## RC Control
+## Electronics
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
-| RC Servo Controller | 1 | $6.99 | [Amazon](https://www.amazon.com/HiLetgo-PCA9685-Channel-12-Bit-Arduino/dp/B01D1D0CX2/) | PCA9685 |
+| PWM Servo Motor Driver | 1 | $6.99 | [Amazon](http://amzon.com/B01D1D0CX2/) | PCA9685 |
 | RC Servo Multiplexer | 1 | $9.95 | [Pololu](https://www.pololu.com/product/2806) | |
 | Servo Extension Cable Pack | 1 | $5.91 | [Amazon](http://amzn.com/B00P6JJFIS/) | Male to Male, 10cm |
 | Jumper Wire Pack | 1 | $6.98 | [Amazon](http://amzn.com/B01EV70C78/) | Female to Female, > 10cm | |
 | Manual Override Switch Pack | 1 | $10.99 | [Amazon](https://www.amazon.com/gp/product/B07L74MMG8/) | |
 
-## WiFi
+## Wi-Fi
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
-| WiFi Card | 1 | $18.95 | [Amazon](https://amzn.to/2WKEkum), [NewEgg](https://www.neweggbusiness.com/Product/Product.aspx?Item=9SIV21M85N2699) |  |
-| WiFi Antennas | 2 | $5.06 | [Arrow](https://www.arrow.com/en/products/2042811100/molex) |  |
+| Wi-Fi Card | 1 | $18.95 | [Amazon](https://amzn.to/2WKEkum), [NewEgg](https://www.neweggbusiness.com/Product/Product.aspx?Item=9SIV21M85N2699) |  |
+| Wi-Fi Antennas | 2 | $5.06 | [Arrow](https://www.arrow.com/en/products/2042811100/molex) |  |
 
 ## Camera
 
