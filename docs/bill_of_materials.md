@@ -1,4 +1,4 @@
-# JetRacer - Bill of Materials
+# Bill of Materials
 
 <img src="https://user-images.githubusercontent.com/4212806/60303370-1810c700-98eb-11e9-9393-dfc3e8799453.jpg" height=256>
 
