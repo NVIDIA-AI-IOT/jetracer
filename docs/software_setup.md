@@ -85,6 +85,16 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
      sudo python3 setup.py install
      ```
  
+## Step 6 - Set the Jetson Nano to 5W mode
+
+To prevent the Jetson Nano from drawing more power than the battery can supply, we set it to 5W mode
+
+1. Open a terminal and call the following to set 5W mode
+
+    ```bash
+    sudo nvpmodel -m1
+    ```
+    
 ## Next
 
 Next, follow run through the [examples](examples.md).
