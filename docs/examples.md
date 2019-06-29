@@ -14,7 +14,7 @@ In this example we'll show how to control JetRacer programatically from a web br
 3. Browse to the folder ``~/jetracer/notebooks`` in the Jupyter Lab file browser
 4. Run through the notebook ``basic_motion.ipynb``
 
-## Example 2 - Collision Avoidance
+## Example 2 - Road Following
 
 ### Step 1 - Open the interactive trainer
 
@@ -22,24 +22,20 @@ In this example we'll show how to control JetRacer programatically from a web br
 
 2. Sign in with the default password ``jetson``
 3. Browse to the folder ``~/jetracer/notebooks`` in the Jupyter Lab file browser
-4. Open the notebook ``interactive_classification.ipynb``
+4. Open the notebook ``interactive_regression.ipynb``
 
 ### Step 2 - Run the trainer
 
-1. In the cell *Task Definition* set ``TASK = 'collision_avoidance'`` to set the task name
 
-2. Also set ``CATEGORIES = ['blocked', 'free']`` to set the class names of the classification task
-2. Execute all of the remaining cells
-2. Use the final widget to collect an image classification dataset for the categories ``blocked`` and ``free``.  Here are some tips
+>  You may want to use ``5W`` mode to prevent the Jetson Nano from drawing to much current and shutting down. Try opening a terminal and entering ``sudo nvpmodel -m1``.
 
-    * Label scenarios where you think it's safe for JetRacer to move forward as ``free``
-    
-    * Label scenarios where you think it's unsafe for JetRacer to move forward as ``blocked``
-    * Collect about an equal number of ``blocked`` and ``free`` images
-    * Vary the types of images by changing lighting, surfaces, angles of objects, etc.
-    * Iterate!  Try training a model, visualize the output in the live demo, find scenarios where the model is weak and add data for those points, train again...
+1. In the cell *Task Definition* set ``TASK = 'road_following'`` to set the task name
 
-
->  If the Jetson draws too much power during training and shuts down, you may want to use ``5W`` mode by opening a terminal and entering ``sudo nvpmodel -m1``.
-
-## Example 2 - Object Following
+2. Also set ``CATEGORIES = ['apex']`` to set the class names of the xy target category
+3. Execute all of the remaining cells
+4. Place the car in different positions, offsets and orientations along the track
+5. Imagine the ideal path the car would follow in these positions overlaid on the camera feed
+6. Click on the live camera feed as far along that ideal path as possible, such that the robot would not exit the track or collide with an object
+7. Repeat this many times (say 50 to start)
+8. Train the model for several epochs (say 10 to start) and see how the model performs
+9. Iterate!  Try training a model, visualize the output in the live demo, find scenarios where the model is inaccurate and add data for those points, train again...
