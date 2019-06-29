@@ -26,6 +26,7 @@ This page lists the parts needed to build JetRacer.  After you've received the p
 |------|:----------:|:------:|-----|-------|
 | RC Servo Controller | 1 | $6.99 | [Amazon](https://www.amazon.com/HiLetgo-PCA9685-Channel-12-Bit-Arduino/dp/B01D1D0CX2/) | PCA9685 |
 | RC Servo Multiplexer | 1 | $9.95 | [Pololu](https://www.pololu.com/product/2806) | |
+| Manual Override Switch Pack | 1 | $10.99 | [Amazon](https://www.amazon.com/gp/product/B07L74MMG8/) | |
 
 ## WiFi
 
@@ -57,6 +58,9 @@ You need a wide angle camera for JetRacer.  Pick an option and order the parts l
 |------|:----------:|:------:|-----|-------|
 | M2x6mm Screw Pack | 1 | $13.53 | [Amazon](https://www.amazon.com/gp/product/B01FXGHO2M/) | Mounts accessories to 3D printed base plate.  12 screws needed per car |
 | M3x20mm Standoff Pack | 1 | $6.99 | [Amazon](https://www.amazon.com/dp/B072DVGWHZ/ref=cm_sw_su_dp) | Mounts 3D printed base plate to RC chassis. 4 standoffs needed per car |
+| M2x38mm Screw Pack | 1 | $11.99 | [Amazon](http://amzn.com/B07CHJBK6F) | 2 needed per car |
+| M2x30mm Screw Pack | 1 | $7.96 | [Amazon](https://www.amazon.com/dp/B015A31EVK/ref=cm_sw_su_dp) | 2 needed per car |
+| Adhesive Pads Pack | 1 | $6.98 | [Amazon](https://www.amazon.com/gp/product/B001KYSAN4/) | 4 needed per car |
 
 ## Next
 
