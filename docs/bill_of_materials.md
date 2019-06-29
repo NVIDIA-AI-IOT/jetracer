@@ -12,7 +12,7 @@ This page lists the parts needed to build JetRacer.  After you've received the p
 | Micro SD Card | 1 | $13.99 | [Amazon](https://amzn.to/2Us6bOv) | Must be at least 32GB |
 | USB Battery | 1 | $15.95 | [Amazon](https://www.amazon.com/5000-mah-Attom-Tech-Portable-Emergency/dp/B07MNWPFG8/) | Must provide at least 5V @ 2A |
 | USB A -> 2.1mm Barrel Cable | 1 | $7.00 | [Amazon](https://www.amazon.com/gp/product/B075112RM6/) |  |
-| Micro USB Power Supply | 1 | $7.50 | [Adafruit](http://bit.ly/af1995) |  |
+| 5V @ 4A Barrel Plug Power Supply | 1 | $14.95 | [Adafruit](https://www.adafruit.com/product/1466) | 2.1mm Iinner diameter |
 
 ## RC Car
 
