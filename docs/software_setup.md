@@ -63,25 +63,8 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 
 >  Ensure that the Jetson Nano is connected to internet
 
-1. Execute the following in a terminal to install the [JetCam](http://github.com/NVIDIA-AI-IOT/jetcam) package package
-
-    ```bash
-    cd $HOME
-    git clone https://github.com/NVIDIA-AI-IOT/torch2trt
-    cd torch2trt
-    sudo python setup.py install 
-    ```
-
-2. Execute the following in a terminal to install the [torch2trt](http://github.com/NVIDIA-AI-IOT/torch2trt) package
-
-    ```bash
-    cd $HOME
-    git clone https://github.com/NVIDIA-AI-IOT/jetcam
-    cd jetcam
-    sudo python3 setup.py install
-    ```
-    
- 3. Execute the following in a terminal to install the [JetRacer](http://github.com/NVIDIA-AI-IOT/jetracer) package
+1. Follow the setup instructions for the [JetCam](http://github.com/NVIDIA-AI-IOT/jetcam) and [torch2trt](http://github.com/NVIDIA-AI-IOT/torch2trt) Python packages
+2. Execute the following in a terminal to install the [JetRacer](http://github.com/NVIDIA-AI-IOT/jetracer) package
  
      ```bash
      cd $HOME
