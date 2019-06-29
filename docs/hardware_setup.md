@@ -249,7 +249,7 @@ Follow these instructions to build JetRacer.  After you've finished, move on to 
     
 ## Phase 4 - RC transmitter modification
 
-## Step 1 - Dissasmble radio
+### Step 1 - Dissasmble radio
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60376010-fc77f000-99c0-11e9-9e2a-478a5da88062.JPG" height=128/>
@@ -268,7 +268,7 @@ Follow these instructions to build JetRacer.  After you've finished, move on to 
 4. Remove the battery cover
 5. Separate the radio into halves
 
-## Step 2 - Remove trim / reset PCB
+### Step 2 - Remove trim / reset PCB
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60377677-de64bc80-99cd-11e9-90f3-136345e6f49f.JPG" height=128/>
@@ -279,7 +279,7 @@ Follow these instructions to build JetRacer.  After you've finished, move on to 
 
 2. Carefully sliding the wires out of the securing clip and pull the PCB to the side
 
-## Step 3 - Drill hole for manual override switch
+### Step 3 - Drill hole for manual override switch
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60377680-de64bc80-99cd-11e9-9af6-4f6de5c0c751.JPG" height=128/>
@@ -290,7 +290,7 @@ Follow these instructions to build JetRacer.  After you've finished, move on to 
 
 2. Using a ``6mm`` diameter drill bit, drill a hole through the marked location
 
-## Step 4 - Drill hole for switch key
+### Step 4 - Drill hole for switch key
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60377685-defd5300-99cd-11e9-8eaa-9048b6e80a7c.JPG" height=128/>
@@ -304,7 +304,7 @@ Follow these instructions to build JetRacer.  After you've finished, move on to 
 3. Mark the RC transmitter at the location of the screwdriver tip
 4. Using a roughly ``2.5mm - 3.5mm`` drill bit, drill a hole through the marked location
 
-## Step 5 - Fasten manual switch to RC transmitter
+### Step 5 - Fasten manual switch to RC transmitter
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60377694-e0c71680-99cd-11e9-83f7-d67d579241ff.JPG" height=128/>
@@ -318,7 +318,7 @@ Follow these instructions to build JetRacer.  After you've finished, move on to 
 2. Place the keyed washer and nut back on the switch
 3. Fasten the switch to the RC transmitter using pliers
 
-## Step 6 - Solder switch to RC transmitter PCB
+### Step 6 - Solder switch to RC transmitter PCB
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60377697-e15fad00-99cd-11e9-94ea-2704dee00761.JPG" height=128/>
@@ -339,7 +339,7 @@ Follow these instructions to build JetRacer.  After you've finished, move on to 
 3. Apply solder to the stripped wire leads
 4. Using pliers, hold the wires against the pads indicated and apply heat with the soldering iron
 
-## Step 7 - Reassemble RC transmitter
+### Step 7 - Reassemble RC transmitter
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60377737-19ff8680-99ce-11e9-8cf7-715df1081d53.JPG" height=128/>
@@ -353,9 +353,11 @@ Follow these instructions to build JetRacer.  After you've finished, move on to 
 2. Fasten the halves using the original screws
 3. Insert the 4 ``AA`` batteries, and apply the battery cover
 
-# Hardware setup complete!
+## Hardware setup complete!
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/60377764-33a0ce00-99ce-11e9-8aa4-688d0a05dc01.JPG" height=256/>
 
-Next up, follow the [software setup](software_setup.md).
+## Next
+
+Next, follow the [software setup](software_setup.md).
