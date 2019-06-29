@@ -1,6 +1,6 @@
 # JetRacer
 
-<img src="https://lh3.googleusercontent.com/NKCZUpv25TTaZ4PFVbxIUZkzVP7l90xhGrmiXJo4R6edUQnWp5coYkM7J1T9pZOnHM6KyhmdxXwpsn7or_8r--yNva_fPAdjZnqdNU3_NUSK7iGxqFzQ0Ucjb0F4WucMUg4MRYOJ5so" height=256>
+<img src="https://user-images.githubusercontent.com/25759564/60384726-40f1a300-9a36-11e9-90df-e8fdcf2f69ae.jpg" height=256>
 
 JetRacer is an educational AI racecar using NVIDIA Jetson Nano that is
 
