@@ -289,10 +289,28 @@
 <img src="https://user-images.githubusercontent.com/25759564/60377689-e02e8000-99cd-11e9-9e8a-aabdc0c82d05.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60377690-e02e8000-99cd-11e9-8ee2-06c8951ba19f.JPG" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/60377691-e0c71680-99cd-11e9-8c93-6c6d01b22102.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377695-e15fad00-99cd-11e9-8219-fdc61df2e137.JPG" height=128/>
 
-## Step 6 - 
+## Step 6 - Solder switch to RC transmitter PCB
 
 <a></a>
+<img src="https://user-images.githubusercontent.com/25759564/60377697-e15fad00-99cd-11e9-94ea-2704dee00761.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377698-e15fad00-99cd-11e9-8587-538703080ba4.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377700-e1f84380-99cd-11e9-8580-546ff486e2b0.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377702-e1f84380-99cd-11e9-81e1-9d61d72892be.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377703-e1f84380-99cd-11e9-8e78-79393d8b9378.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377705-e290da00-99cd-11e9-9b00-cbed3a20eef2.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377676-de64bc80-99cd-11e9-9997-01baa79ad4cc.JPG" height=128/>
+<img src="https://user-images.githubusercontent.com/25759564/60377736-19ff8680-99ce-11e9-895e-0c5a5dbe6915.JPG" height=128/>
+
+## Step 7 -
+
+<a></a>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
+<img src="" height=128/>
 <img src="" height=128/>
 <img src="" height=128/>
 <img src="" height=128/>
