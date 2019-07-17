@@ -27,7 +27,7 @@ This page lists the parts needed to build JetRacer.  After you've received the p
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
-| PWM Servo Motor Driver | 1 | $6.99 | [Amazon](http://amzon.com/B01D1D0CX2/) | PCA9685 |
+| PWM Servo Motor Driver | 1 | $6.99 | [Amazon](http://amzn.com/B01D1D0CX2/) | PCA9685 |
 | RC Servo Multiplexer | 1 | $9.95 | [Pololu](https://www.pololu.com/product/2806) | |
 | Servo Extension Cable Pack | 1 | $5.91 | [Amazon](http://amzn.com/B00P6JJFIS/) | Male to Male, 10cm |
 | Jumper Wire Pack | 1 | $6.98 | [Amazon](http://amzn.com/B01EV70C78/) | Female to Female, > 10cm | |
