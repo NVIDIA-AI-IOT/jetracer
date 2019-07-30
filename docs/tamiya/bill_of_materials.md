@@ -8,7 +8,7 @@ This page lists the parts needed to build JetRacer - Tamiya TT02 version.  After
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
-| Jetson Nano | 1 | $99.00 | [NVIDIA](https://amzn.to/2K36TPl) |  |
+| Jetson Nano | 1 | $99.00 | [NVIDIA](https://developer.nvidia.com/buy-jetson?product=jetson_nano), [Amazon](https://amzn.to/2K36TPl) |  |
 | Micro SD Card | 1 | $11.99 | [Amazon](https://amzn.to/2Mohzd1) | Must be at least 32GB |
 | USB Battery | 1 | $13.99 | [Amazon](https://amzn.to/2MqAu6M) | Must provide at least 5V @ 2A |
 | USB A -> 2.1mm Barrel Cable | 1 | $7.00 | [Amazon](https://amzn.to/2SMmu8A) |  |
@@ -19,15 +19,16 @@ This page lists the parts needed to build JetRacer - Tamiya TT02 version.  After
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
-| RC Car | 1 | $118.99 | [Hobbytown](https://www.hobbytown.com/tamiya-nsx-tt02-4wd-on-road-tam58634/p508229),[Tamiya](https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-nsx/tt-02/) | Tamiya NSX TT-02 assembly kit |
-| 3d-printed base board | 1 |  | [STL file](../assets/jetracer_tamiya_tt02_base_board.stl) |  |
-| 3d-printed camera mount | 1 |  | [STL file](../assets/jetracer_cam_mount.stl) |  |
+| RC Car | 1 | $118.99 | [Amazon](https://amzn.to/2LUn3gj), [Hobbytown](https://www.hobbytown.com/tamiya-nsx-tt02-4wd-on-road-tam58634/p508229), [Tamiya](https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-nsx/tt-02/) | Tamiya NSX TT-02 assembly kit |
+| TX RX Combo | 1 | $129.99 | [Amazon](https://amzn.to/2yoyWC5) | Futaba 3PV 3ch 2.4GHz transmitter and receiver module set |
+| 3d-printed base board | 1 |  | [STL file](../../assets/jetracer_tamiya_tt02_base_board.stl) |  |
+| 3d-printed camera mount | 1 |  | [STL file](../../assets/jetracer_cam_mount.stl) |  |
 
-## Jig (to help drill holes on RC car chassis)
+## Jig
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
-| 3d-printed jig 0late | 1 |  | [STL file](../assets/jetracer_tamiya_tt02_drill_jig.stl) |  |
+| 3d-printed jig plate | 1 |  | [STL file](../../assets/jetracer_tamiya_tt02_drill_jig.stl) | to help drill holes on RC car chassis |
 
 ## Electronics
 
