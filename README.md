@@ -1,6 +1,6 @@
 # JetRacer
 
-<img src="https://user-images.githubusercontent.com/25759564/60384726-40f1a300-9a36-11e9-90df-e8fdcf2f69ae.jpg" height=256>
+<img src="https://user-images.githubusercontent.com/25759564/62127658-741e9080-b287-11e9-8ab9-f4e7e31404b1.png" height=256>
 
 JetRacer is an educational AI racecar using NVIDIA Jetson Nano that is
 
@@ -15,9 +15,15 @@ To get started, follow the [setup](#setup) below.
 
 To get started with JetRacer, follow these steps
 
-1. Order parts from the [bill of materials](docs/bill_of_materials.md)
+1. Order parts from the bill of materials
 
-2. Follow the [hardware setup](docs/hardware_setup.md)
+    - [Latrax version](docs/latrax/bill_of_materials.md)
+    - [Tamiya version](docs/tamiya/bill_of_materials.md)
+
+2. Follow the hardware setup
+
+    - [Latrax version](docs/latrax/hardware_setup.md)
+    - [Tamiya version](docs/tamiya/hardware_setup.md)
 3. Follow the [software setup](docs/software_setup.md)
 4. Run through the [examples](docs/examples.md)
 
