@@ -1,6 +1,6 @@
 # Hardware Setup
 
-Follow these instructions to build JetRacer.  After you've finished, move on to the [software setup](software_setup.md).
+Follow these instructions to build JetRacer - Latrax Rally version.  After you've finished, move on to the [software setup](../software_setup.md).
 
 ## Tools
 
@@ -245,7 +245,7 @@ Follow these instructions to build JetRacer.  After you've finished, move on to 
 
 2. Insert the barrel plug into the Jetson Nano developer kit
 
-    > Before powering on, you'll need to follow the [software setup](software_setup.md) to configure the SD card
+    > Before powering on, you'll need to follow the [software setup](../software_setup.md) to configure the SD card
     
 ## Phase 4 - RC transmitter modification
 
@@ -360,4 +360,4 @@ Follow these instructions to build JetRacer.  After you've finished, move on to 
 
 ## Next
 
-Next, follow the [software setup](software_setup.md).
+Next, follow the [software setup](../software_setup.md).

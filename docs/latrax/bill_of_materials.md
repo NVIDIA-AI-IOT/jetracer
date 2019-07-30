@@ -1,6 +1,6 @@
 # Bill of Materials
 
-This page lists the parts needed to build JetRacer.  After you've received the parts, follow the [hardware setup](hardware_setup.md).
+This page lists the parts needed to build JetRacer - Latrax Rally version.  After you've received the parts, follow the [hardware setup](hardware_setup.md).
 
 <img src="https://user-images.githubusercontent.com/4212806/60303370-1810c700-98eb-11e9-9393-dfc3e8799453.jpg" height=256>
 
