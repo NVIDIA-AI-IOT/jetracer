@@ -2,7 +2,7 @@
 
 This page lists the parts needed to build JetRacer - Tamiya TT02 version.  After you've received the parts, follow the [hardware setup](hardware_setup.md).
 
-<img src="https://user-images.githubusercontent.com/25759564/62090140-9df09c80-b220-11e9-859e-2671b80805e1.png" height=480>
+<img src="https://user-images.githubusercontent.com/25759564/62109609-7968e480-b261-11e9-857a-bd52ebd7943f.png" height=480>
 
 ## Jetson Nano
 
@@ -21,14 +21,14 @@ This page lists the parts needed to build JetRacer - Tamiya TT02 version.  After
 |------|:----------:|:------:|-----|-------|
 | RC Car | 1 | $118.99 | [Amazon](https://amzn.to/2LUn3gj), [Hobbytown](https://www.hobbytown.com/tamiya-nsx-tt02-4wd-on-road-tam58634/p508229), [Tamiya](https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-nsx/tt-02/) | Tamiya NSX TT-02 assembly kit |
 | TX RX Combo | 1 | $129.99 | [Amazon](https://amzn.to/2yoyWC5) | Futaba 3PV 3ch 2.4GHz transmitter and receiver module set |
-| 3d-printed base board | 1 |  | [STL file](../../assets/jetracer_tamiya_tt02_base_board.stl) |  |
+| 3d-printed base board | 1 |  | [STL file](../../assets/tamiya_tt02/jetracer_tamiya_tt02_base_board.stl) |  |
 | 3d-printed camera mount | 1 |  | [STL file](../../assets/jetracer_cam_mount.stl) |  |
 
 ## Jig
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
-| 3d-printed jig plate | 1 |  | [STL file](../../assets/jetracer_tamiya_tt02_drill_jig.stl) | to help drill holes on RC car chassis |
+| 3d-printed jig plate | 1 |  | [STL file](../../assets/tamiya_tt02/jetracer_tamiya_tt02_drill_jig.stl) | to help drill holes on RC car chassis |
 
 ## Electronics
 
