@@ -19,8 +19,11 @@ This page lists the parts needed to build JetRacer - Tamiya TT02 version.  After
 
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
-| RC Car | 1 | $118.99 | [Amazon](https://amzn.to/2LUn3gj), [Hobbytown](https://www.hobbytown.com/tamiya-nsx-tt02-4wd-on-road-tam58634/p508229), [Tamiya](https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-nsx/tt-02/) | Tamiya NSX TT-02 assembly kit |
+| RC Car | 1 | $118.99 | [Amazon](https://amzn.to/2LUn3gj), [Hobbytown](https://www.hobbytown.com/tamiya-nsx-tt02-4wd-on-road-tam58634/p508229), [Tamiya](https://www.tamiyausa.com/shop/110-4wd-shaft-drive-road-tt/rc-nsx/tt-02/) | Tamiya NSX TT-02 assembly kit 
+| Servo | 1 | $15.98 | [Amazon](https://amzn.to/2LS781O) | Futaba S3004 Standard Ball Bearing Servo |
 | TX RX Combo | 1 | $129.99 | [Amazon](https://amzn.to/2yoyWC5) | Futaba 3PV 3ch 2.4GHz transmitter and receiver module set |
+| RC battery pack | 1 | $39.99 | [Amazon](https://amzn.to/31330PW) | Tenergy 7.2V 3000mAh NiMH (2-pack) |
+| RC battery charger | 1 | $20.99 | [Amazon](https://amzn.to/2GHi3ay) | Tenergy Universal RC Battery Charger |
 | 3d-printed base board | 1 |  | [STL file](../../assets/tamiya_tt02/jetracer_tamiya_tt02_base_board.stl) |  |
 | 3d-printed camera mount | 1 |  | [STL file](../../assets/jetracer_cam_mount.stl) |  |
 
