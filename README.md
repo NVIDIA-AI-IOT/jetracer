@@ -2,12 +2,13 @@
 
 <img src="https://user-images.githubusercontent.com/25759564/62127658-741e9080-b287-11e9-8ab9-f4e7e31404b1.png" height=256>
 
-JetRacer is an educational AI racecar using NVIDIA Jetson Nano that is
+JetRacer is an autonomous AI racecar using NVIDIA Jetson Nano that is
 
-* Affordable - Less than $400 *including* Jetson Nano
+* Fast - Optimize for high framerates to move at high speeds
 
-* Educational - Examples from basic motion to AI road following
-* Fun! - Interactively programmed from your web browser
+* Fun - Follow examples and program interactively from your web browser
+
+By building and experimenting with JetRacer you will create fast AI pipelines and push the boundaries of speed.
 
 To get started, follow the [setup](#setup) below.
 
@@ -37,7 +38,7 @@ In this example you'll learn to progam JetRacer programatically from your web br
 
 ### Example 2 - Road following
 
-In this example, you'll teach JetRacer how to follow a road using AI.  After training the neural network using the [interactive training notebook](notebooks/interactive_regression.ipynb), you'll deploy an optimized live demo on JetRacer.  Learn more in the [examples](docs/examples.md).
+In this example, you'll teach JetRacer how to follow a road using AI.  After training the neural network using the [interactive training notebook](notebooks/interactive_regression.ipynb), you'll optimize the model using NVIDIA TensorRT and deploy for a live demo. Learn more in the [examples](docs/examples.md).
 
 <img src="https://user-images.githubusercontent.com/4212806/60383389-bd7b8600-9a24-11e9-9f64-926e5edb52cc.gif" height=300/>
 
