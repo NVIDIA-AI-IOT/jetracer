@@ -76,12 +76,23 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
     sudo python3 setup.py install
     ```
     
-2. Execute the following in a terminal to install the [JetRacer](http://github.com/NVIDIA-AI-IOT/jetracer) package
+3. Execute the following in a terminal to install the [JetRacer](http://github.com/NVIDIA-AI-IOT/jetracer) package
  
      ```bash
      cd $HOME
      git clone https://github.com/NVIDIA-AI-IOT/jetracer
      cd jetracer
+     sudo python3 setup.py install
+     ```
+
+4. Install and mod Adafruit_Python_PlatformDetect
+
+     ```bash
+     cd $HOME
+     git clone https://github.com/adafruit/Adafruit_Python_PlatformDetect
+     cd Adafruit_Python_PlatformDetect
+     vi adafruit_platformdetect/board.py
+     # --> elif 'nano' in board_value.lower():
      sudo python3 setup.py install
      ```
  
