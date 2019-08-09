@@ -20,8 +20,8 @@ This page lists the parts needed to build JetRacer - Latrax Rally version.  Afte
 | Part | Quantity | Cost | URL | Notes |
 |------|:----------:|:------:|-----|-------|
 | RC Car | 1 | $109.95 | [HobbyTown](https://www.hobbytown.com/traxxas-latrax-rally-1-18-4wd-rtr-rally-racer-green-tra75054-5-grn/p630138), [Amazon](http://amzn.com/B06W57XLRW) | Traxxas LaTrax Rally 1/18 4WD w/ 2.4GHz radio |
-| 3d-printed base board | 1 |  | [STL file](../assets/latrax_rally/jetracer_latrax_base_board.stl) |  |
-| 3d-printed camera mount | 1 |  | [STL file](../assets/jetracer_cam_mount.stl) |  |
+| 3d-printed base board | 1 |  | [STL file](../../assets/latrax_rally/jetracer_latrax_base_board.stl) |  |
+| 3d-printed camera mount | 1 |  | [STL file](../../assets/jetracer_cam_mount.stl) |  |
 
 ## Electronics
 
