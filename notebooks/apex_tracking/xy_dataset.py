@@ -24,11 +24,11 @@ class XYDataset(torch.utils.data.Dataset):
     def __getitem__(self, idx):
         
         image_path = self.image_paths[idx]
+        basename = os.path.basename(image_path)
+        x = int(basename.split('_')[0])
+        y = int(basename.split('_')[1])
         
-        x = int(image_path.split('_')[0])
-        y = int(image_path.split('_')[1])
-        
-        image = cv2.imread(ann['image_path'], cv2.IMREAD_COLOR)
+        image = cv2.imread(image_path, cv2.IMREAD_COLOR)
         image = PIL.Image.fromarray(image)
         width = image.width
         height = image.height
@@ -36,8 +36,8 @@ class XYDataset(torch.utils.data.Dataset):
         if self.transform is not None:
             image = self.transform(image)
         
-        x = 2.0 * (ann['x'] / width - 0.5) # -1 left, +1 right
-        y = 2.0 * (ann['y'] / height - 0.5) # -1 top, +1 bottom
+        x = 2.0 * (x / width - 0.5) # -1 left, +1 right
+        y = 2.0 * (y / height - 0.5) # -1 top, +1 bottom
         
         if self.random_hflip and float(np.random.random(1)) > 0.5:
             image = torch.from_numpy(image.numpy()[..., ::-1].copy())
