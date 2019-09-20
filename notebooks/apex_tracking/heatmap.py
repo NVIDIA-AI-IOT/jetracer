@@ -16,7 +16,7 @@ class HeatmapModel(torch.nn.Module):
                 torch.nn.BatchNorm2d(upsample_dims[i]),
                 torch.nn.ReLU(),
             ]
-        self.attention = torch.nn.ConvTranspose2d(upsample_dims[0], upsample_dims[-1], kernel_size=4, stride=4, padding=1, output_padding=2)
+#         self.attention = torch.nn.ConvTranspose2d(upsample_dims[0], upsample_dims[-1], kernel_size=4, stride=4, padding=1, output_padding=2)
         self.upsample = torch.nn.Sequential(*upsample_layers)
         self.final = torch.nn.Conv2d(upsample_dims[-1], output_dim, kernel_size=1, stride=1, padding=0)
     
@@ -32,7 +32,8 @@ class HeatmapModel(torch.nn.Module):
         x = self.feature_extractor.layer4(x) # 512x7x7
         
         y = self.upsample(x)
-        x = torch.sigmoid(self.attention(x)) * y
+        x = y
+#         x = torch.sigmoid(self.attention(x)) * y
         x = self.final(x)
         
         return x
