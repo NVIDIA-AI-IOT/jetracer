@@ -18,13 +18,14 @@ To get started with JetRacer, follow these steps
 
 1. Order parts from the bill of materials
 
-    - [Latrax version](docs/latrax/bill_of_materials.md)
-    - [Tamiya version](docs/tamiya/bill_of_materials.md)
+    - [Latrax version](docs/latrax/bill_of_materials.md) ... Smaller (1/18 scale), fully assembled "Ready-To-Run" car.
+    - [Tamiya version](docs/tamiya/bill_of_materials.md) ... 1/10 scale, "Assemble it yourself" kit car. Needs 3ch transmitter & receiver, servo and battery separately.
 
 2. Follow the hardware setup
 
-    - [Latrax version](docs/latrax/hardware_setup.md)
-    - [Tamiya version](docs/tamiya/hardware_setup.md)
+    - [Latrax version](docs/latrax/hardware_setup.md) ... Requires the transmitter mod to enable 3ch for MUX.
+    - [Tamiya version](docs/tamiya/hardware_setup.md) ... Requires drilling mounting hall on car chassis.
+
 3. Follow the [software setup](docs/software_setup.md)
 4. Run through the [examples](docs/examples.md)
 
