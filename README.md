@@ -12,6 +12,21 @@ By building and experimenting with JetRacer you will create fast AI pipelines an
 
 To get started, follow the [setup](#setup) below.
 
+## Cars
+
+### Latrax Rally
+
+* 1/18th scale
+* Ready-To-Run. Comes fully assembled, with the transmitter, batteries and the charger.
+* Requires the transmitter mod to enable CH3
+
+### Tamiya TT02
+
+* 1/10th scale
+* Kit. Requires assembly
+* Need to separately get a servo, transmitter, batteries and charger
+* Faster
+
 ## Setup
 
 To get started with JetRacer, follow these steps
