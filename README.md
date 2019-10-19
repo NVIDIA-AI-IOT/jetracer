@@ -16,11 +16,15 @@ To get started, follow the [setup](#setup) below.
 
 ### Latrax Rally
 
+<img src="https://user-images.githubusercontent.com/262161/67135572-ff952700-f1cf-11e9-9676-860464505818.png" height=256>
+
 * 1/18th scale
 * Ready-To-Run. Comes fully assembled, with the transmitter, batteries and the charger.
 * Requires the transmitter mod to enable CH3
 
 ### Tamiya TT02
+
+<img src="https://user-images.githubusercontent.com/262161/67135640-9b269780-f1d0-11e9-87b7-09faacfa81cc.jpg" height=256>
 
 * 1/10th scale
 * Kit. Requires assembly
@@ -33,13 +37,13 @@ To get started with JetRacer, follow these steps
 
 1. Order parts from the bill of materials
 
-    - [Latrax version](docs/latrax/bill_of_materials.md) ... Smaller (1/18 scale), fully assembled "Ready-To-Run" car.
-    - [Tamiya version](docs/tamiya/bill_of_materials.md) ... 1/10 scale, "Assemble it yourself" kit car. Needs 3ch transmitter & receiver, servo and battery separately.
+    - [Latrax version](docs/latrax/bill_of_materials.md) 
+    - [Tamiya version](docs/tamiya/bill_of_materials.md) 
 
 2. Follow the hardware setup
 
-    - [Latrax version](docs/latrax/hardware_setup.md) ... Requires the transmitter mod to enable 3ch for MUX.
-    - [Tamiya version](docs/tamiya/hardware_setup.md) ... Requires drilling mounting hall on car chassis.
+    - [Latrax version](docs/latrax/hardware_setup.md) 
+    - [Tamiya version](docs/tamiya/hardware_setup.md) 
 
 3. Follow the [software setup](docs/software_setup.md)
 4. Run through the [examples](docs/examples.md)
