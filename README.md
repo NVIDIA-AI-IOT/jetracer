@@ -12,24 +12,15 @@ By building and experimenting with JetRacer you will create fast AI pipelines an
 
 To get started, follow the [setup](#setup) below.
 
-## Cars
-
-### Latrax Rally
-
-<img src="https://user-images.githubusercontent.com/262161/67135572-ff952700-f1cf-11e9-9676-860464505818.png" height=256>
-
-* 1/18th scale
-* Ready-To-Run. Comes fully assembled, with the transmitter, batteries and the charger.
-* Requires the transmitter mod to enable CH3
-
-### Tamiya TT02
-
-<img src="https://user-images.githubusercontent.com/262161/67135640-9b269780-f1d0-11e9-87b7-09faacfa81cc.jpg" height=256>
-
-* 1/10th scale
-* Kit. Requires assembly
-* Need to separately get a servo, transmitter, batteries and charger
-* Faster
+|  Latrax Rally | Tamiya TT02 |
+|--------------|---------------|
+| <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256>  | <img src="https://user-images.githubusercontent.com/25759564/67250039-b1c22e00-f41e-11e9-931f-98c1729550d0.jpg" width=320>  | 
+| 1/18th scale |  1/10th scale |
+| Moderate Speed  |  High Speed  |
+| ~$400 total build cost | ~$600 total build cost |
+| Compact and portable |  Large and easy to modify |
+| Soldering required |  No soldering required  |
+| Base car pre-assembled | Base car assembly required |
 
 ## Setup
 
