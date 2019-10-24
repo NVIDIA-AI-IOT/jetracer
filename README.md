@@ -1,6 +1,6 @@
 # JetRacer
 
-<img src="https://user-images.githubusercontent.com/25759564/62127658-741e9080-b287-11e9-8ab9-f4e7e31404b1.png" height=256>
+<img src="https://user-images.githubusercontent.com/4212806/67442981-ce459e00-f5b7-11e9-9c8a-14ab360decb8.gif" height=256>
 
 JetRacer is an autonomous AI racecar using NVIDIA Jetson Nano.  With JetRacer you will
 
