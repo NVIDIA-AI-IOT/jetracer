@@ -71,7 +71,7 @@ Follow these instructions to build JetRacer - Tamiya TT02 version.  After you've
 <img src="https://user-images.githubusercontent.com/25759564/62114195-01072100-b26b-11e9-8ac3-add30af328ad.png" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/62114215-095f5c00-b26b-11e9-8f5e-cfdf1050e798.png" height=128/>
 
-1. Use 2x ``M2x8mm`` tapping screws to mount the multiplexier on the base plate
+1. Use 2x ``M2x8mm`` tapping screws to mount the multiplexer on the base plate
 
 ### Step 2 - Servo Motor Driver
 
@@ -110,7 +110,7 @@ Follow these instructions to build JetRacer - Tamiya TT02 version.  After you've
 <img src="https://user-images.githubusercontent.com/25759564/62116681-71b03c80-b26f-11e9-9286-196db0c927ce.png" height=128/>
 <img src="https://user-images.githubusercontent.com/25759564/62116737-8ab8ed80-b26f-11e9-90b9-27d7969069aa.png" height=128/>
 
-1. Place SMA anntena connector through the base plate hole
+1. Place SMA antenna connector through the base plate hole
 
 2. Put lock washer and split washer, and use the nut to tighten
 
@@ -186,7 +186,7 @@ Follow these instructions to build JetRacer - Tamiya TT02 version.  After you've
 3. Insert the Wi-Fi card into the M.2 connector slot
 4. Reattach the screw to secure the Wi-Fi card
 
-### Step 6 - USB Battery to Jetosn Nano
+### Step 6 - USB Battery to Jetson Nano
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/62122680-18e6a100-b27b-11e9-8085-ebbd9d42f497.png" height=128/>
@@ -204,7 +204,7 @@ Follow these instructions to build JetRacer - Tamiya TT02 version.  After you've
 
 <img src="https://user-images.githubusercontent.com/25759564/62122957-bb068900-b27b-11e9-9a81-82a22ed4e491.png" height=360/>
 
-### Step 7 - RX (RC receiver) to mulptiplexer
+### Step 7 - RX (RC receiver) to multiplexer
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/62124102-3a955780-b27e-11e9-97ca-1ff35ae4f931.png" height=128/>
@@ -217,7 +217,7 @@ Follow these instructions to build JetRacer - Tamiya TT02 version.  After you've
 2. Connect ``CH2`` on the RC receiver to ``M2`` on the multiplexer
 3. Connect ``CH1`` on the RC receiver to ``M1`` on the multiplexer
 
-### Step 8 - RC's ESC and servo to mulptiplexer 
+### Step 8 - RC's ESC and servo to multiplexer 
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/62124102-3a955780-b27e-11e9-97ca-1ff35ae4f931.png" height=128/>
