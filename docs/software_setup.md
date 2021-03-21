@@ -9,7 +9,7 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 3. Using [Etcher](https://www.balena.io/etcher/) select the downloaded zip file and flash it onto the SD card
 4. Remove the SD card from the desktop machine
 
-### Latest Release
+### Latest Release (** but not yet fully verified ** )
 
 > Please note, the password for the pre-built SD card is ``jetson``
 
