@@ -1,5 +1,7 @@
 # JetRacer
 
+> 3/20/2021 - The new jetcard image is now posted! It supports B01 rev board and is based on JetPack 4.5.1. Detail [here](https://github.com/NVIDIA-AI-IOT/jetracer/blob/master/docs/software_setup.md#latest-release--but-not-yet-fully-verified--).
+
 <img src="https://user-images.githubusercontent.com/4212806/67442981-ce459e00-f5b7-11e9-9c8a-14ab360decb8.gif" height=256>
 
 JetRacer is an autonomous AI racecar using NVIDIA Jetson Nano.  With JetRacer you will
