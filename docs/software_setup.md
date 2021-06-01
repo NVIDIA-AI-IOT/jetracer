@@ -15,9 +15,9 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 
 > Please note, the password for the pre-built SD card is ``jetson``
 
-| Platform | Board revision | JetPack Version | Download | MD5 Checksum | branch |
-| -------- | -------------- | --------------- | -------- |------------- | ------ |
-| Jetson Nano (4GB) | `A02` and `B01` | 4.5.1 |  [jetcard_nano-4gb-jp451.zip](https://drive.google.com/file/d/1MX-z7ZCPvUzpN3nGhfZMAgENtK6VnBdh) | 1004e73e034d6df3b5167705546a11f3 | [`jetpack_4.5.1`](https://github.com/NVIDIA-AI-IOT/jetcard/tree/jetpack_4.5.1)
+| Platform | Board revision | JetPack Version | Download | MD5 Checksum | branch | Note |
+| -------- | -------------- | --------------- | -------- |------------- | ------ | ---- |
+| Jetson Nano (4GB) | `A02` and `B01` | 4.5.1 |  [jetracer_nano-4gb-jp451.zip](https://drive.google.com/file/d/1aPbzQ0_Uja0jVD48oZUAuYYAz10JgbZu/view?usp=sharing) | 3195c91e6069c0418ec3c9736d130d01 | [jetcard `jetpack_4.5.1`](https://github.com/NVIDIA-AI-IOT/jetcard/tree/jetpack_4.5.1) | **Jetracer preconfigured** |
 
 ### Old Release
 
