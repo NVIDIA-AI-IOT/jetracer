@@ -186,7 +186,7 @@ Follow these instructions to build JetRacer - Tamiya TT02 version.  After you've
 3. Insert the Wi-Fi card into the M.2 connector slot
 4. Reattach the screw to secure the Wi-Fi card
 
-### Step 6 - USB Battery to Jetosn Nano
+### Step 6 - USB Battery to Jetson Nano
 
 <a></a>
 <img src="https://user-images.githubusercontent.com/25759564/62122680-18e6a100-b27b-11e9-8085-ebbd9d42f497.png" height=128/>
