@@ -4,6 +4,8 @@
 
 After finishing these steps, you'll be all set to program JetRacer.  Once you're finished, run through the [examples](examples.md).
 
+# For a 4GB Jetson Nano
+
 ## Step 1 - Flash micro SD card
 
 1. Download a JetCard SD card image listed in below table onto a Windows, Linux or Mac *desktop machine*
@@ -109,6 +111,28 @@ To prevent the Jetson Nano from drawing more power than the battery can supply, 
     sudo nvpmodel -m1
     ```
     
-## Next
+
+
+# For a 2GB Jetson Nano
+
+* [ Follow software setup Using SD Card Image for JetBot](https://jetbot.org/master/software_setup/sd_card.html) for the 2GB Nano 
+* Install setup tools `sudo apt-get install python3-setuptools`
+* Install jetcam
+```bash
+cd $HOME
+git clone https://github.com/NVIDIA-AI-IOT/jetcam
+cd jetcam
+sudo python3 setup.py install
+```
+* Install jetracer software
+```bash
+cd $HOME
+git clone https://github.com/NVIDIA-AI-IOT/jetracer
+cd jetracer
+sudo python3 setup.py install
+```
+* Reboot the jetson nano
+
+# Next
 
 Next, follow run through the [examples](examples.md).
